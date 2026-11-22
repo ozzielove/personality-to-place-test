@@ -1,0 +1,103 @@
+# PART XV — Dealbreakers & Must-Haves
+> These final questions are filters, not preferences. Answer "dealbreaker" or "must-have" only if you truly would refuse a place that fails the test. Each dealbreaker removes locations from consideration before scoring (see Step 6 of the Scoring Methodology). The last two questions set your top priorities, which double or increase the weight of certain scales.
+## XV-A. Climate Dealbreakers
+Q. Regular winter snow (snow on the ground for weeks most winters):
+A. Dealbreaker; I will not live with regular snow.
+B. I would prefer to avoid it, but it is not a dealbreaker.
+C. I am fine with it or want it.
+K. DB A=NOSNOW B=- C=-
+Q. Long stretches of extreme summer heat (frequent 100°F+ days or high heat with humidity):
+A. Dealbreaker.
+B. Not ideal, but acceptable.
+C. Fine, or I love it.
+K. DB A=NOHEAT B=- C=-
+Q. Humid, sticky summers:
+A. Dealbreaker; I need dry air.
+B. Not ideal, but acceptable.
+C. Fine.
+K. DB A=NOHUMID B=- C=-
+## XV-B. Landscape & Access Must-Haves
+Q. Living within about 20 minutes of an ocean coastline:
+A. Must-have.
+B. Nice to have.
+C. Not important.
+K. DB A=COAST B=- C=-
+Q. Living close to real mountains:
+A. Must-have.
+B. Nice to have.
+C. Not important.
+K. DB A=MOUNTAINS B=- C=-
+Q. A large airport with extensive nonstop flights within about an hour:
+A. Must-have.
+B. Nice to have.
+C. Not important.
+K. DB A=AIRPORT B=- C=-
+Q. Being able to live comfortably without a car:
+A. Must-have.
+B. Nice to have.
+C. Not important.
+K. DB A=NOCAR B=- C=-
+## XV-C. Cost, Family & Lifestyle Must-Haves
+Q. Housing and living costs at or below the national average:
+A. Must-have; I cannot or will not pay more.
+B. Strongly preferred.
+C. Not a constraint.
+K. DB A=AFFORD B=- C=-
+Q. A strongly family-oriented community with well-regarded schools and kid-centered amenities:
+A. Must-have.
+B. Nice to have.
+C. Not important.
+K. DB A=SCHOOLS B=- C=-
+Q. Genuine quiet at night and low ambient noise:
+A. Must-have.
+B. Nice to have.
+C. Not important.
+K. DB A=QUIET B=- C=-
+Q. Which density limit is a must for you?
+A. I must live in a genuinely urban neighborhood.
+B. I must live in a small town or rural area.
+C. No hard requirement.
+K. DB A=URBANONLY B=RURALONLY C=-
+## XV-D. Identity & Values Must-Haves
+Q. A place where LGBTQ+ people are visibly welcomed and safe:
+A. Must-have.
+B. Nice to have.
+C. Not a deciding factor.
+K. DB A=LGBTQ B=- C=-
+Q. Faith community requirement:
+A. Must-have: I need a place where faith is central to community life.
+B. Must-avoid: I need a strongly secular place where religion is not prominent in civic life.
+C. No requirement.
+K. DB A=FAITH B=SECULAR C=-
+Q. Civic and political climate:
+A. Must-have: the local culture must broadly match my own civic outlook.
+B. I prefer a match but can adapt.
+C. Not important; I enjoy a mix.
+K. DB A=CIVMATCH B=- C=-
+## XV-E. Regions & Priorities
+Q. Is there one eastern region you would refuse to live in?
+A. Northeast & Mid-Atlantic.
+B. Southeast.
+C. Midwest.
+D. None.
+K. DB A=NO_NE B=NO_SE C=NO_MW D=-
+Q. Is there one western region you would refuse to live in?
+A. South Central (Texas, Louisiana, Arkansas, Oklahoma).
+B. Mountain & Southwest.
+C. Pacific (West Coast, Hawaii, Alaska).
+D. None.
+K. DB A=NO_SC B=NO_MS C=NO_PAC D=-
+Q. Which ONE factor matters most in where you live? (Priority #1)
+A. Climate and weather.
+B. Nature and outdoor access.
+C. Cost of living.
+D. Community culture, values, and belonging.
+E. City life: density, walkability, arts, and nightlife.
+K. PRI1 A=CLIMATE B=NATURE C=COST D=COMMUNITY E=CITY
+Q. Which factor matters SECOND most? (Priority #2; choose a different answer than above)
+A. Climate and weather.
+B. Nature and outdoor access.
+C. Cost of living.
+D. Community culture, values, and belonging.
+E. City life: density, walkability, arts, and nightlife.
+K. PRI2 A=CLIMATE B=NATURE C=COST D=COMMUNITY E=CITY

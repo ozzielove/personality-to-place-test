@@ -1,0 +1,207 @@
+# PART VIII — Current Life Stage
+> These questions are about where you are right now. Questions about personal circumstances offer "Prefer not to say," which is never scored and never counts against you. Your answers help the test weigh family amenities, cost of living, and career ecosystems.
+## VIII-A. Age, Work & Occupation
+Q. Which life stage best describes you right now?
+A. Student or recent graduate figuring things out.
+B. Early career, building skills and income.
+C. Mid-career, established and growing.
+D. Late career, semi-retired, or retired.
+E. Prefer not to say.
+K. TAG A=COLLEGE B=- C=- D=RETIRE E=- | PACE A=7 B=8 C=6 D=4 E=- | NIGHT A=9 B=7 C=4 D=2 E=-
+Q. Your current employment situation:
+A. Employed full-time.
+B. Self-employed, freelance, or running a business.
+C. Part-time, gig work, or between jobs.
+D. Student, caregiver, homemaker, or retired.
+E. Prefer not to say.
+K. NOTE
+Q. Your current occupation falls closest to:
+A. Technology, engineering, science, or data.
+B. Government, military, law, policy, or nonprofit.
+C. Healthcare, social work, or caregiving.
+D. Arts, media, design, or entertainment.
+E. Trades, manufacturing, logistics, energy, agriculture, hospitality, finance, education, or prefer not to say. (Answer the next question to specify.)
+K. CAR A=TECH B=GOV C=HLTH D=CREA E=-
+Q. If you chose E above, which is closest? (Everyone else, skip this question.)
+A. Skilled trades, manufacturing, logistics, or energy.
+B. Agriculture, ranching, forestry, or fisheries.
+C. Hospitality, food service, retail, or tourism.
+D. Finance, real estate, insurance, or sales.
+E. Education or academia.
+K. CAR A=TRADE B=AGRI C=HOSP D=FIN E=EDU
+Q. Which best describes your military or service background?
+A. Active duty or reserve, and I would value a base or veteran community nearby.
+B. Veteran or military family.
+C. No military connection.
+D. Prefer not to say.
+K. CIV A=3 B=4 C=- D=- | CAR A=GOV B=GOV C=- D=-
+Q. How tied are you to your current location by work or family?
+A. Not at all; I could move anywhere next month.
+B. Somewhat; a move would take a year of planning.
+C. Quite tied; I would need a strong reason.
+D. Very tied, or prefer not to say; this test is for dreaming.
+K. NOTE
+## VIII-B. Relationships & Household
+Q. Your relationship status:
+A. Single and happily so.
+B. Single and hoping to meet someone.
+C. In a relationship, married, or partnered.
+D. Divorced, separated, or widowed.
+E. Prefer not to say.
+K. NIGHT A=5 B=8 C=3 D=4 E=- | URB A=6 B=8 C=4 D=5 E=- | SOC A=5 B=9 C=5 D=7 E=-
+Q. If you are hoping to date, which dating pool feels most promising to you?
+A. A big-city pool with endless options and every kind of person.
+B. A mid-sized city with a strong young-professional scene.
+C. A tight-knit community where people meet through church, work, or friends.
+D. An outdoorsy town where people meet on trails and at the climbing gym.
+E. Not dating, or prefer not to say.
+K. URB A=10 B=7 C=3 D=3 E=- | FAITH A=- B=- C=7 D=- E=- | OUT A=- B=- C=- D=10 E=- | DIV A=9 B=6 C=3 D=4 E=-
+Q. Your household right now or in the next few years:
+A. Just me.
+B. Me and a partner, no kids.
+C. Young children at home, or planning them soon.
+D. Teenagers at home.
+E. Adult children, multigenerational household, or prefer not to say.
+K. FAM A=1 B=3 C=10 D=8 E=- | URB A=7 B=6 C=4 D=4 E=-
+Q. How important are public school quality and family amenities (parks, libraries, youth sports) in choosing where to live?
+A. Top priority.
+B. Important.
+C. Somewhat important.
+D. Not a factor for me.
+E. Prefer not to say.
+K. FAM A=10 B=7 C=4 D=0 E=-
+Q. Do you care for, or expect to care for, an aging parent or relative?
+A. Yes, and I need to be near good healthcare and accessible housing.
+B. Possibly in the next few years.
+C. No.
+D. Prefer not to say.
+K. CAR A=HLTH B=- C=- D=- | FAM A=8 B=6 C=- D=-
+Q. If you are LGBTQ+ or have LGBTQ+ family members, how much does local acceptance factor into your choice?
+A. Essential; I want visible community and legal protections.
+B. Important; I want to feel safe and welcome.
+C. Neutral or not applicable.
+D. Prefer not to say.
+K. DIV A=10 B=8 C=- D=- | TAG A=LGBTQ B=LGBTQ C=- D=- | CIV A=9 B=7 C=- D=-
+Q. Pets in your household:
+A. Dogs that need a yard and trails.
+B. Cats or small pets.
+C. Livestock, horses, or a menagerie.
+D. None, or prefer not to say.
+K. URB A=3 B=6 C=0 D=- | OUT A=7 B=- C=6 D=- | TAG A=- B=- C=FARM D=-
+Q. If you have or plan to have children, which childhood do you picture for them?
+A. Big-city kids: subways, museums, and many cultures.
+B. Suburban kids: cul-de-sacs, soccer leagues, good schools.
+C. Small-town kids: bikes, creeks, and everyone knows them.
+D. Country kids: chores, animals, and wide-open land.
+E. Not applicable, or prefer not to say.
+K. URB A=10 B=5 C=2 D=0 E=- | FAM A=6 B=10 C=9 D=8 E=- | DIV A=10 B=5 C=3 D=2 E=-
+Q. How close do you want to live to your extended family?
+A. Same town or neighborhood.
+B. Within a few hours' drive.
+C. A flight away is fine.
+D. Distance does not matter, or prefer not to say.
+K. FAM A=10 B=7 C=3 D=-
+## VIII-C. Financial Mindset
+Q. Your approach to money is closest to:
+A. Frugal; I love stretching a dollar and avoid debt.
+B. Balanced; I save steadily and spend on what matters.
+C. Comfortable; I spend on quality and experiences.
+D. Unconcerned with cost; I will pay for the right place.
+E. Prefer not to say.
+K. COST A=10 B=6 C=3 D=0 E=-
+Q. Which housing budget feels right for you?
+A. As low as possible; I want to save or need to.
+B. Moderate; I can pay a bit extra for a great location.
+C. Generous; location matters more than price.
+D. Price is basically no object.
+E. Prefer not to say.
+K. COST A=10 B=6 C=3 D=0 E=-
+Q. Would you rather own a big house in an inexpensive town or rent a small apartment in an expensive, exciting city?
+A. Big house, inexpensive town, without question.
+B. Probably the house.
+C. Probably the apartment.
+D. Small apartment, exciting city, without question.
+K. COST A=10 B=7 C=3 D=0 | URB A=1 B=3 C=7 D=10
+Q. How do you feel about state income taxes?
+A. Strongly prefer a state with no income tax.
+B. Lower is better, but not a dealbreaker.
+C. I am fine paying more for robust public services.
+D. I do not think about taxes when choosing where to live.
+K. COST A=8 B=6 C=3 D=- | CIV A=2 B=4 C=8 D=-
+Q. Your current financial situation feels:
+A. Tight; affordability is a real constraint.
+B. Stable, with some room.
+C. Comfortable.
+D. Very comfortable.
+E. Prefer not to say.
+K. COST A=10 B=6 C=3 D=1 E=-
+Q. Your long-term financial goal is closest to:
+A. Early retirement through saving aggressively.
+B. Owning a home and building equity.
+C. Funding experiences, travel, and a rich life.
+D. Building a business or investments.
+E. Prefer not to say.
+K. COST A=9 B=7 C=3 D=4 E=- | FAM A=4 B=8 C=2 D=5 E=-
+Q. "I would happily pay a lot more to live in my dream location."
+L.
+K. COST L-
+## VIII-D. Health & Wellness Habits
+Q. Your exercise habits:
+A. Daily and outdoors: running, cycling, hiking, swimming.
+B. Regularly at a gym, studio, or class.
+C. Occasional walks.
+D. Not much right now.
+E. Prefer not to say.
+K. OUT A=10 B=4 C=3 D=1 E=- | WALK A=6 B=6 C=8 D=3 E=-
+Q. Which wellness culture appeals to you?
+A. Yoga studios, meditation centers, and juice bars.
+B. CrossFit boxes and endurance races.
+C. Trailheads and cold rivers.
+D. Church potlucks and Sunday dinners; wellness is community.
+E. None in particular.
+K. TAG A=WELLNESS B=OUTDOOR C=OUTDOOR D=FAITH E=- | OUT A=4 B=7 C=10 D=2 E=-
+Q. How much do you want to walk in daily life?
+A. Everywhere; I would love to never drive.
+B. Often: errands, coffee, and dinner on foot.
+C. Sometimes, for pleasure.
+D. Rarely; I prefer driving.
+K. WALK A=10 B=8 C=4 D=0 | URB A=10 B=8 C=4 D=2
+Q. Access to specialized healthcare (major hospitals, specialists) matters:
+A. A lot; I or someone I love needs it.
+B. Somewhat.
+C. Not much; a basic clinic is enough.
+D. Prefer not to say.
+K. URB A=8 B=5 C=2 D=- | CAR A=HLTH B=- C=- D=-
+Q. Your sleep schedule:
+A. Early to bed, early to rise.
+B. Fairly regular.
+C. Night owl.
+D. Erratic.
+K. NIGHT A=1 B=4 C=9 D=6 | QUIET A=9 B=6 C=3 D=4
+Q. Alcohol and substances in your social life:
+A. Central; drinks are how we socialize.
+B. Occasional.
+C. Rare.
+D. None, and I prefer sober-friendly environments.
+E. Prefer not to say.
+K. NIGHT A=10 B=6 C=3 D=1 E=-
+Q. "Air quality and access to clean, green space affect my mood more than most people's."
+L.
+K. FOREST L+ | URB L- | OUT L+
+Q. Which health-related environment matters most to you?
+A. Clean air and low pollution.
+B. Sunshine and warmth for joints and mood.
+C. Low altitude for easy breathing.
+D. Easy access to gyms, pools, and fitness studios.
+E. None in particular, or prefer not to say.
+K. URB A=2 B=- C=- D=8 E=- | HEAT A=- B=10 C=- D=- E=- | MTN A=- B=- C=0 D=- E=- | OUT A=8 B=- C=- D=4 E=-
+Q. Your relationship with a car right now:
+A. I do not own one and do not want to.
+B. I own one but would happily ditch it.
+C. I need one and like driving.
+D. I love driving; road trips and trucks are part of who I am.
+E. Prefer not to say.
+K. WALK A=10 B=8 C=3 D=0 E=- | URB A=10 B=7 C=3 D=1 E=-
+Q. "I am at a stage of life where I want to put down deep roots."
+L.
+K. FAM L+ | PACE L-

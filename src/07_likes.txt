@@ -1,0 +1,241 @@
+# PART VII — Likes & Dislikes: Food, Hobbies, Entertainment & the Senses
+## VII-A. Food & Drink
+Q. Your ideal Friday dinner:
+A. A tasting menu at a chef-driven restaurant I booked weeks ago.
+B. A hole-in-the-wall taqueria, pho shop, or dumpling house someone swears by.
+C. A backyard barbecue or fish fry with neighbors.
+D. A home-cooked meal from my own garden or the farmers market.
+K. TAG A=FOODIE B=FOODIE C=- D=FARM | URB A=9 B=8 C=3 D=2
+Q. How adventurous are you with food?
+A. I will try anything: insects, offal, the spiciest thing on the menu.
+B. I love trying new cuisines, within reason.
+C. I like a few favorites and branch out occasionally.
+D. I know what I like, and I order it every time.
+K. DIV A=9 B=7 C=4 D=2 | URB A=8 B=7 C=4 D=3
+Q. Which food scene would make you happiest to live near?
+A. Dozens of immigrant-run restaurants from every continent.
+B. Classic regional cooking: barbecue, Southern, Tex-Mex, Cajun, or New England seafood.
+C. Farm-to-table cafes and a great Saturday farmers market.
+D. A few reliable chains and a good grocery store; food is not a priority.
+K. DIV A=10 B=4 C=6 D=2 | TAG A=FOODIE B=HISTORY C=FARM D=-
+Q. Your relationship with coffee and cafes:
+A. I need a great independent cafe within walking distance; it is my second living room.
+B. I like a good cafe but will drive to one.
+C. Drip coffee at home is fine.
+D. I do not drink coffee or care about cafes.
+K. WALK A=10 B=4 C=2 D=- | URB A=8 B=5 C=3 D=-
+Q. Which drinks culture appeals most?
+A. Craft cocktail bars and natural-wine spots.
+B. Breweries and taprooms with dogs and picnic tables.
+C. Front-porch sweet tea or a cold beer with neighbors.
+D. I do not drink alcohol, and I prefer places where that is normal and easy.
+K. NIGHT A=9 B=6 C=3 D=1 | URB A=9 B=5 C=2 D=4 | FAITH A=2 B=3 C=5 D=8
+Q. Dietary life: which is closest to you?
+A. Vegan or vegetarian, and I want plenty of options.
+B. I eat everything but care about local and organic sourcing.
+C. Meat-and-potatoes, and proud of it.
+D. Specific religious or cultural dietary practices (kosher, halal, and so on) that I want to keep easily.
+E. No strong preferences.
+K. CIV A=9 B=7 C=2 D=- E=- | DIV A=7 B=5 C=2 D=9 E=- | FAITH A=- B=- C=- D=8 E=-
+Q. A food you could not live without nearby:
+A. Fresh seafood straight off the boat.
+B. Real barbecue or Southern home cooking.
+C. Authentic Mexican or Southwestern food with green chile.
+D. Great bagels, pizza, and delis.
+E. Fresh produce from local farms.
+K. WATER A=10 B=- C=- D=- E=- | HEAT A=- B=8 C=8 D=3 E=- | DRY A=- B=2 C=9 D=- E=- | URB A=- B=- C=- D=9 E=2
+Q. "I would happily drive 45 minutes for an exceptional meal."
+L.
+K. URB L- | TAG L+FOODIE
+## VII-B. Hobbies & Pastimes
+Q. Your favorite way to spend a free Saturday morning:
+A. A trail run, mountain bike ride, or paddle.
+B. A gallery, museum, or bookstore crawl.
+C. Fixing something in the garage or garden.
+D. Brunch with friends in a lively neighborhood.
+E. Worship service, volunteering, or community work.
+K. OUT A=10 B=2 C=5 D=2 E=3 | ARTS A=2 B=10 C=3 D=6 E=3 | TAG A=OUTDOOR B=ARTSY C=MAKER D=FOODIE E=FAITH
+Q. Which hobby are you most likely to pick up next?
+A. Rock climbing, skiing, or surfing.
+B. Pottery, painting, or an instrument.
+C. Woodworking, welding, or building a 3D printer.
+D. Gardening, canning, or keeping chickens.
+E. Golf, fishing, or pickleball.
+K. TAG A=OUTDOOR B=ARTSY C=MAKER D=FARM E=RETIRE | OUT A=10 B=2 C=3 D=5 E=6
+Q. Your ideal vacation:
+A. Backpacking a national park.
+B. Exploring a great city's museums, food, and neighborhoods.
+C. Lounging on a warm beach.
+D. A quiet cabin by a lake.
+E. A cultural heritage trip: historic towns, battlefields, cathedrals.
+K. OUT A=10 B=2 C=4 D=6 E=3 | URB A=1 B=10 C=4 D=1 E=5 | TAG A=OUTDOOR B=ARTSY C=BEACH D=- E=HISTORY
+Q. How do you feel about team sports, as a fan?
+A. I live and die with my teams; game day is sacred.
+B. I follow a team casually and enjoy going to games.
+C. I will watch the big games for the social side.
+D. I do not care about sports.
+K. TAG A=SPORTS B=SPORTS C=- D=- | SOC A=8 B=6 C=5 D=4
+Q. Which would you rather do on a weeknight?
+A. A pottery or improv class.
+B. A rec-league game.
+C. A church small group, choir practice, or study circle.
+D. Work on a personal project at home.
+E. Go out for live music.
+K. TAG A=ARTSY B=SPORTS C=FAITH D=MAKER E=MUSIC | QUIET A=4 B=4 C=6 D=9 E=2
+Q. Your relationship with animals:
+A. I want room for dogs, maybe horses or livestock.
+B. A dog or cat, and a dog-friendly neighborhood matters.
+C. Pets are nice but not a factor.
+D. I prefer not to have pets.
+K. URB A=0 B=5 C=- D=- | TAG A=FARM B=- C=- D=-
+Q. "I would rather spend a weekend outdoors than in any city."
+L.
+K. OUT L+ | URB L-
+Q. Collecting, tinkering, and DIY projects:
+A. Central to my life; I need a workshop or studio space.
+B. A fun occasional pastime.
+C. Not really my thing.
+D. I would rather pay someone.
+K. TAG A=MAKER B=- C=- D=- | URB A=3 B=5 C=6 D=8
+Q. A friend offers you a free weekend lesson. Which do you grab?
+A. Learning to sail.
+B. A glassblowing workshop.
+C. A wilderness survival course.
+D. A barbecue pitmaster class.
+E. A ballroom or salsa dance class.
+K. TAG A=BEACH B=ARTSY C=OUTDOOR D=FOODIE E=NIGHTLIFE | WATER A=10 B=- C=- D=- E=- | OUT A=7 B=1 C=10 D=2 E=3
+Q. Your relationship with shopping:
+A. I love strolling boutiques and vintage shops on a walkable main street.
+B. A big mall or outlet center is fun.
+C. Online for almost everything.
+D. I buy as little as possible and fix what I own.
+K. WALK A=10 B=1 C=4 D=4 | URB A=8 B=4 C=4 D=2 | COST A=3 B=4 C=5 D=9
+Q. Games and puzzles:
+A. Board-game cafes and trivia leagues are my scene.
+B. A weekly card game with the same friends for years.
+C. Video games online with friends anywhere.
+D. Crosswords alone with coffee.
+K. URB A=8 B=3 C=4 D=4 | SOC A=8 B=7 C=3 D=2 | FAM A=3 B=7 C=3 D=4
+Q. "I would happily spend every weekend working on my house and yard."
+L.
+K. FAM L+ | URB L- | TAG L+MAKER
+## VII-C. Entertainment & Culture
+Q. Your ideal live-entertainment night:
+A. A symphony, opera, or ballet.
+B. A sweaty indie or punk show in a small club.
+C. A country, bluegrass, or gospel concert.
+D. Stand-up comedy or experimental theater.
+E. A big stadium show or festival.
+K. ARTS A=10 B=8 C=5 D=8 E=5 | TAG A=ARTSY B=MUSIC C=MUSIC D=ARTSY E=NIGHTLIFE | CIV A=6 B=8 C=3 D=7 E=5
+Q. How often do you want to go out to cultural events (shows, exhibits, readings)?
+A. Several times a week.
+B. Once a week or so.
+C. A few times a month.
+D. A few times a year.
+K. ARTS A=10 B=8 C=5 D=2 | URB A=10 B=8 C=5 D=2
+Q. Which music best fits your soul?
+A. Jazz, blues, or soul.
+B. Indie, alternative, or electronic.
+C. Country, Americana, or bluegrass.
+D. Hip-hop or R&B.
+E. Classical, choral, or sacred music.
+K. TAG A=MUSIC B=MUSIC C=MUSIC D=MUSIC E=ARTSY | DIV A=7 B=6 C=3 D=8 E=4
+Q. Your ideal movie theater:
+A. An art-house cinema showing foreign films and restored classics.
+B. A big multiplex with recliners.
+C. A drive-in under the stars.
+D. My couch.
+K. ARTS A=10 B=4 C=3 D=2 | URB A=9 B=5 C=1 D=3
+Q. Which of these festivals would you travel for?
+A. A film or literary festival.
+B. A music festival in the desert or mountains.
+C. A county fair with livestock shows and a demolition derby.
+D. A food and wine festival.
+E. A Pride celebration or cultural heritage parade.
+K. ARTS A=10 B=6 C=2 D=5 E=6 | TAG A=ARTSY B=MUSIC C=FARM D=FOODIE E=LGBTQ | CIV A=7 B=7 C=2 D=5 E=9
+Q. "Living somewhere with a thriving arts scene is essential to my happiness."
+L.
+K. ARTS L+
+Q. Nightlife preference:
+A. Bars and clubs open until 2 a.m. or later, within walking distance.
+B. A few good bars and a music venue nearby.
+C. A quiet pub or restaurant that closes by 10.
+D. No nightlife needed; I am asleep by 10.
+K. NIGHT A=10 B=6 C=3 D=0 | QUIET A=1 B=4 C=7 D=10
+Q. Your stance on screens and entertainment at home:
+A. I would rather go out than stay in.
+B. A balance of both.
+C. Mostly home: streaming, gaming, reading.
+D. Mostly home, often without screens: books, crafts, the garden.
+K. NIGHT A=9 B=5 C=2 D=1 | URB A=8 B=5 C=4 D=2
+## VII-D. Sensory Preferences
+Q. The sound environment you find most soothing:
+A. City hum: distant traffic, voices, a siren now and then.
+B. A quiet residential street with birds and an occasional lawnmower.
+C. Wind in the trees and nothing else.
+D. Ocean waves.
+K. QUIET A=1 B=6 C=10 D=7 | URB A=10 B=5 C=0 D=4 | WATER A=- B=- C=- D=10 | FOREST A=- B=- C=9 D=-
+Q. Light: how do you feel about gray, overcast days?
+A. Love them; cozy and moody.
+B. Fine in moderation.
+C. Tolerable, but I need sunshine regularly.
+D. They make me miserable; I need bright sun most days.
+K. HEAT A=2 B=4 C=6 D=8 | DRY A=2 B=4 C=6 D=9
+Q. Which smell says "home" to you?
+A. Pine needles and woodsmoke.
+B. Salt air and sunscreen.
+C. Creosote after desert rain, or sun-baked sage.
+D. Fresh bread and coffee from the bakery downstairs.
+E. Cut grass and a summer thunderstorm.
+K. FOREST A=10 B=- C=- D=- E=5 | WATER A=- B=10 C=- D=- E=- | DESERT A=- B=- C=10 D=- E=- | URB A=2 B=4 C=3 D=10 E=3 | SEAS A=7 B=2 C=3 D=- E=8
+Q. Crowds on sidewalks and in stores:
+A. I like the energy.
+B. I can handle them.
+C. They wear on me.
+D. I avoid them at almost any cost.
+K. URB A=10 B=7 C=3 D=0 | QUIET A=1 B=4 C=7 D=10
+Q. At night, how dark do you want it outside your bedroom window?
+A. City glow is comforting.
+B. Some streetlights are fine.
+C. Dark, with a few distant lights.
+D. Truly dark: Milky Way visible.
+K. URB A=10 B=6 C=2 D=0 | QUIET A=2 B=5 C=8 D=10
+Q. Your ideal view from your window:
+A. A skyline.
+B. A tree-lined street with neighbors.
+C. Mountains.
+D. Water: ocean, lake, or river.
+E. Open fields, desert, or prairie to the horizon.
+K. URB A=10 B=5 C=2 D=4 E=0 | MTN A=- B=- C=10 D=- E=- | WATER A=- B=- C=- D=10 E=- | DESERT A=- B=- C=- D=- E=6
+Q. Humidity on your skin:
+A. I love sticky, tropical air.
+B. I do not mind it.
+C. I prefer it moderate.
+D. I want crisp, dry air.
+K. DRY A=0 B=3 C=6 D=10 | HEAT A=9 B=7 C=5 D=4
+Q. "I am easily overwhelmed by noise, bright lights, or strong smells."
+L.
+K. QUIET L+ | URB L-
+Q. Which tactile pleasure matters most to you?
+A. Warm sand underfoot.
+B. Cold mountain air in my lungs.
+C. Soft rain on my face.
+D. Dry desert sun on my skin.
+E. The buzz of a crowded street.
+K. WATER A=10 B=- C=- D=- E=- | MTN A=- B=10 C=- D=- E=- | FOREST A=- B=- C=8 D=- E=- | DESERT A=- B=- C=- D=10 E=- | URB A=3 B=2 C=4 D=2 E=10 | HEAT A=9 B=1 C=3 D=9 E=-
+Q. Your preferred color palette for the world around you:
+A. Blues and whites: sea and sky.
+B. Deep greens and browns: forest and earth.
+C. Ochres, reds, and terracotta: desert and adobe.
+D. Greys, neon, and glass: the city.
+E. Golds and tans: prairie and wheat.
+K. WATER A=10 B=- C=- D=- E=- | FOREST A=- B=10 C=- D=- E=- | DESERT A=- B=- C=10 D=- E=- | URB A=4 B=2 C=3 D=10 E=0 | TAG A=- B=- C=- D=- E=FARM
+Q. How do you feel about outdoor dining and patio culture year-round?
+A. Essential; I want to eat outside in January.
+B. I love it most of the year.
+C. A seasonal treat.
+D. Indifferent.
+K. HEAT A=10 B=7 C=3 D=- | WALK A=7 B=6 C=4 D=-
+Q. "Spicy food, loud music, and bold colors make me feel alive."
+L.
+K. NIGHT L+ | DIV L+ | HEAT L+

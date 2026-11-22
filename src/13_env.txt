@@ -1,0 +1,287 @@
+# PART XIII — Physical Environment: Climate, Landscape, Density & Cost
+> This part is the backbone of your location match. Answer for where you would thrive day-to-day for years, not where you would like to vacation for a week.
+## XIII-A. Temperature & Seasons
+Q. Your ideal January afternoon:
+A. 75°F and sunny in shorts.
+B. 60°F with a light jacket.
+C. 40°F, crisp, and maybe a flurry.
+D. 15°F with fresh powder on the ground.
+K. HEAT A=10 B=7 C=3 D=0 | SEAS A=0 B=3 C=7 D=10
+Q. Your ideal July afternoon:
+A. 95°F or hotter; I love real heat.
+B. 85°F and sunny.
+C. 75°F and breezy.
+D. 65°F, cool and misty.
+K. HEAT A=10 B=7 C=4 D=1
+Q. How do you feel about snow?
+A. I love it and want months of it.
+B. A few good snowfalls a year are perfect.
+C. I tolerate it, barely.
+D. I never want to shovel again.
+K. HEAT A=0 B=3 C=6 D=10 | SEAS A=10 B=8 C=4 D=1 | TAG A=SKI B=- C=- D=-
+Q. Distinct seasons (fall foliage, real winter, spring bloom) matter to you:
+A. Enormously; I would feel lost without them.
+B. Quite a bit.
+C. Somewhat.
+D. Not at all; give me eternal summer or eternal spring.
+K. SEAS A=10 B=7 C=4 D=0
+Q. The hottest weather you could live with every summer:
+A. Over 105°F dry heat (desert).
+B. Mid-90s with heavy humidity (Gulf and Southeast).
+C. Upper 80s.
+D. Mid-70s maximum; I wilt in heat.
+K. HEAT A=10 B=9 C=5 D=1 | DRY A=10 B=0 C=5 D=5 | DESERT A=7 B=- C=- D=-
+Q. The coldest weather you could live with every winter:
+A. Below zero for weeks (Upper Midwest, Northern Rockies).
+B. Regular freezing temperatures and snow.
+C. Occasional frost.
+D. Anything below 50°F is unacceptable.
+K. HEAT A=0 B=3 C=7 D=10 | SEAS A=10 B=8 C=4 D=0
+Q. "I would happily trade summer heat for long, snowy winters."
+L.
+K. HEAT L- | SEAS L+
+Q. How do you feel about rain?
+A. I love frequent gray drizzle; it is cozy and keeps everything green.
+B. Regular rain is fine.
+C. I prefer occasional dramatic storms with sun in between.
+D. I want 300 sunny days a year.
+K. DRY A=0 B=3 C=6 D=10 | FOREST A=10 B=7 C=4 D=1 | HEAT A=3 B=4 C=6 D=8
+Q. Afternoon thunderstorms in summer:
+A. Love them; daily drama.
+B. Fine.
+C. Annoying.
+D. I would rather have dry summers.
+K. DRY A=0 B=3 C=6 D=10 | HEAT A=8 B=6 C=4 D=5
+Q. Which weather extreme would you rather endure for a month each year?
+A. Sticky, tropical humidity.
+B. Dry desert heat.
+C. Endless gray and drizzle.
+D. Deep freeze and blizzards.
+K. HEAT A=9 B=10 C=3 D=0 | DRY A=0 B=10 C=1 D=5 | SEAS A=1 B=2 C=4 D=10
+Q. Your ideal altitude:
+A. Sea level, with thick, easy air.
+B. Low hills.
+C. A mile high.
+D. High mountain air above 7,000 feet.
+K. MTN A=0 B=4 C=8 D=10 | WATER A=8 B=4 C=- D=-
+Q. Fall to you means:
+A. Leaf-peeping, apple orchards, and flannel.
+B. A pleasant break from the heat.
+C. Football season.
+D. Not much; seasons blend together.
+K. SEAS A=10 B=4 C=6 D=0 | FOREST A=8 B=- C=- D=- | HEAT A=3 B=8 C=- D=7 | TAG A=- B=- C=SPORTS D=-
+## XIII-B. Landscape & Nature Access
+Q. Your soul landscape:
+A. Rugged mountains.
+B. An ocean coastline.
+C. Lakes and rivers.
+D. Red-rock canyons and desert.
+E. Deep green forest.
+K. MTN A=10 B=- C=- D=- E=- | WATER A=- B=10 C=9 D=- E=- | DESERT A=- B=- C=- D=10 E=- | FOREST A=- B=- C=4 D=- E=10
+Q. How close do you need to be to that landscape?
+A. Out my back door.
+B. Within a 20-minute drive.
+C. Within an hour or two.
+D. A vacation destination is enough.
+K. OUT A=10 B=8 C=5 D=2 | URB A=0 B=3 C=7 D=9
+Q. Which second landscape would you also love nearby?
+A. Mountains.
+B. Coast.
+C. Lakes or rivers.
+D. Desert.
+E. Forest and rolling farmland.
+K. MTN A=8 B=- C=- D=- E=- | WATER A=- B=8 C=8 D=- E=- | DESERT A=- B=- C=- D=8 E=- | FOREST A=- B=- C=- D=- E=8 | TAG A=- B=- C=- D=- E=FARM
+Q. Which water activity would you do most often?
+A. Surfing or ocean swimming.
+B. Kayaking, paddleboarding, or sailing on a lake.
+C. Fly fishing or river floating.
+D. Walking a beach or riverfront.
+E. None; water is not a draw.
+K. WATER A=10 B=9 C=8 D=7 E=0 | OUT A=10 B=8 C=8 D=4 E=- | TAG A=BEACH B=OUTDOOR C=OUTDOOR D=BEACH E=-
+Q. Which mountain activity appeals most?
+A. Skiing and snowboarding.
+B. Backpacking and peak-bagging.
+C. Scenic drives and overlooks.
+D. Mountains are not for me.
+K. MTN A=10 B=10 C=6 D=0 | OUT A=10 B=10 C=4 D=1 | TAG A=SKI B=OUTDOOR C=- D=-
+Q. Deserts make you feel:
+A. Spiritually alive; the light and space are everything.
+B. Fascinated, in moderation.
+C. Uneasy; too empty.
+D. Parched; I need green.
+K. DESERT A=10 B=6 C=2 D=0 | DRY A=10 B=7 C=4 D=1 | FOREST A=0 B=3 C=6 D=10 | TAG A=WELLNESS B=- C=- D=-
+Q. "I need to see green trees most of the year to feel well."
+L.
+K. FOREST L+ | DESERT L-
+Q. Public lands (national parks, forests, BLM land) within an hour's drive:
+A. Essential; I want millions of acres to explore.
+B. Very important.
+C. Nice to have.
+D. Not important.
+K. OUT A=10 B=8 C=5 D=1 | URB A=1 B=3 C=5 D=8
+Q. Your relationship with flat landscapes (plains, prairie, farmland):
+A. I love the big sky and open horizon.
+B. Peaceful enough.
+C. A little boring.
+D. I need topography.
+K. MTN A=0 B=2 C=6 D=10 | TAG A=FARM B=- C=- D=-
+Q. Which wildlife encounter sounds best?
+A. Elk bugling in a mountain meadow.
+B. Dolphins off a pier.
+C. Herons in a river marsh.
+D. A roadrunner and a desert tortoise.
+E. City pigeons are plenty.
+K. MTN A=10 B=- C=- D=- E=- | WATER A=- B=10 C=8 D=- E=- | DESERT A=- B=- C=- D=10 E=- | URB A=1 B=3 C=3 D=2 E=10
+Q. A big city park (Central Park, Golden Gate Park) versus true wilderness:
+A. A great urban park is all the nature I need.
+B. Mostly the park, with occasional trips out.
+C. Mostly wilderness, with a park for daily walks.
+D. True wilderness only.
+K. URB A=10 B=7 C=3 D=0 | OUT A=2 B=4 C=8 D=10
+## XIII-C. Density, Pace & Noise
+Q. Your ideal neighborhood type:
+A. Dense downtown high-rise or brownstone blocks.
+B. A walkable "streetcar suburb" with bungalows and a main street.
+C. A suburban cul-de-sac with good schools.
+D. A small town where Main Street is the whole downtown.
+E. Rural acreage.
+K. URB A=10 B=7 C=4 D=2 E=0 | WALK A=10 B=8 C=1 D=6 E=0 | FAM A=3 B=6 C=10 D=7 E=6
+Q. The pace of life you crave:
+A. New York fast.
+B. Brisk but livable.
+C. Relaxed.
+D. Slow as molasses; nobody rushes.
+K. PACE A=10 B=7 C=4 D=1
+Q. How would you get around day-to-day in your ideal life?
+A. Subway, bus, and my feet; no car.
+B. Bike and feet, with a car-share for trips.
+C. A car, with some walkable errands.
+D. A truck or car for everything.
+K. WALK A=10 B=9 C=4 D=0 | URB A=10 B=7 C=4 D=1 | CIV A=8 B=8 C=5 D=2
+Q. Noise level you can comfortably sleep through:
+A. Sirens, traffic, and late-night revelers.
+B. Occasional traffic.
+C. Distant dogs and crickets.
+D. Total silence only.
+K. QUIET A=0 B=4 C=8 D=10 | URB A=10 B=6 C=2 D=0
+Q. Your ideal walk score:
+A. Everything I need within a 10-minute walk.
+B. Most daily needs walkable.
+C. A few things walkable.
+D. Walkability does not matter to me.
+K. WALK A=10 B=7 C=4 D=0
+Q. "I would feel trapped in a place where I had to drive everywhere."
+L.
+K. WALK L+ | URB L+
+Q. Tourists in your town:
+A. Fine; they bring energy and money.
+B. Tolerable seasonally.
+C. Annoying.
+D. I want a place tourists have never heard of.
+K. TAG A=BEACH B=- C=- D=- | QUIET A=2 B=4 C=7 D=9 | COST A=2 B=4 C=6 D=8
+Q. How long would you be willing to commute each way?
+A. Over an hour, if the home and town are worth it.
+B. 30 to 60 minutes.
+C. Under 30 minutes.
+D. Zero; I want to work where I live.
+K. NOTE
+Q. Which "city energy" do you want?
+A. 24-hour: something is always open.
+B. Lively until midnight.
+C. Quiet after 9 p.m.
+D. Sleepy; the streets roll up at sundown.
+K. NIGHT A=10 B=7 C=3 D=0 | PACE A=10 B=7 C=4 D=1 | QUIET A=0 B=3 C=7 D=10
+## XIII-D. Housing & Cost of Living
+Q. Your ideal home:
+A. A modern apartment or condo with amenities.
+B. A historic rowhouse, brownstone, or triplex.
+C. A craftsman bungalow with a garden.
+D. A newer single-family home with a big yard.
+E. A cabin, farmhouse, or off-grid homestead.
+K. URB A=9 B=9 C=6 D=3 E=0 | FAM A=3 B=4 C=6 D=10 E=6 | TAG A=- B=HISTORY C=- D=- E=FARM
+Q. How much space do you need?
+A. A studio or one-bedroom is plenty.
+B. Two bedrooms.
+C. Three or four bedrooms.
+D. A big house and land.
+K. URB A=10 B=7 C=4 D=0 | FAM A=1 B=4 C=8 D=8 | COST A=4 B=5 C=6 D=6
+Q. Rent or own?
+A. Rent; I value flexibility.
+B. Rent now, own eventually.
+C. Own, ideally soon.
+D. Own outright, with land.
+K. URB A=8 B=6 C=4 D=1 | COST A=3 B=5 C=7 D=8
+Q. Which statement about cost of living is most true for you?
+A. I will pay coastal big-city prices for the right life.
+B. I will pay above average for a great place.
+C. I need the cost of living to be about average.
+D. I need a place well below the national average.
+K. COST A=0 B=3 C=6 D=10
+Q. Would you accept a smaller salary to live somewhere cheaper but less exciting?
+A. Absolutely.
+B. Probably.
+C. Probably not.
+D. Never; I go where the opportunity is.
+K. COST A=10 B=7 C=3 D=0 | PACE A=2 B=4 C=7 D=9
+Q. Which trade-off would you take?
+A. A tiny apartment five minutes from everything.
+B. A modest house 20 minutes from downtown.
+C. A big house 45 minutes from a city.
+D. A farmhouse two hours from anywhere.
+K. URB A=10 B=6 C=3 D=0 | WALK A=10 B=4 C=1 D=0 | QUIET A=1 B=5 C=8 D=10
+Q. "Housing costs are the single biggest factor in where I can live."
+L.
+K. COST L+
+Q. Property with outdoor space matters:
+A. Not at all; parks are my yard.
+B. A balcony or small patio.
+C. A real yard.
+D. Acres.
+K. URB A=10 B=8 C=4 D=0 | FAM A=2 B=4 C=8 D=7
+## XIII-E. Environmental Edge Cases
+Q. Which daily view would you sacrifice cost savings for?
+A. An ocean view.
+B. A mountain view.
+C. A skyline view.
+D. None; I would take the savings.
+K. WATER A=10 B=- C=- D=- | MTN A=- B=10 C=- D=- | URB A=- B=- C=10 D=- | COST A=1 B=1 C=1 D=10
+Q. Wildfire smoke, hurricanes, or extreme heat are climate risks almost everywhere. Which would most push you away from a place?
+A. Hurricanes and flooding.
+B. Wildfire and smoke.
+C. Extreme heat.
+D. Extreme cold.
+E. None would push me away.
+K. HEAT A=4 B=6 C=1 D=10 E=- | DRY A=8 B=3 C=5 D=5 E=- | WATER A=3 B=- C=- D=- E=-
+Q. Bugs (mosquitoes, palmetto bugs, black flies):
+A. A dealbreaker; I want dry or cold climates with few bugs.
+B. Annoying but survivable.
+C. Part of nature; no big deal.
+D. Love the night chorus and fireflies.
+K. DRY A=10 B=6 C=4 D=1 | HEAT A=3 B=5 C=6 D=8
+Q. Long summer daylight (sunset at 9:30 p.m.) versus short winter days (sunset at 4:30 p.m.): which matters more?
+A. I crave long summer evenings even if winters are dark.
+B. I would trade summer evenings for brighter winters.
+C. Both matter equally.
+D. Neither matters much.
+K. HEAT A=3 B=8 C=5 D=- | SEAS A=8 B=3 C=6 D=-
+Q. How much sun do you want in winter?
+A. Constant, bright sunshine.
+B. Mostly sunny with occasional storms.
+C. A mix of sun and cloud.
+D. I do not mind long gray stretches.
+K. DRY A=10 B=7 C=4 D=1 | HEAT A=8 B=6 C=4 D=2
+Q. Ideal distance from a big city if you do not live in one:
+A. I want to live in it.
+B. A suburb within 30 minutes.
+C. A town within 90 minutes.
+D. Hours away; cities are for occasional visits.
+K. URB A=10 B=6 C=3 D=0 | PACE A=9 B=6 C=4 D=2
+Q. Elevation gain on your daily walk:
+A. Steep hills: I want a workout and views.
+B. Gentle rolling hills.
+C. Flat as a pancake, please.
+D. Does not matter.
+K. MTN A=9 B=5 C=0 D=- | OUT A=8 B=5 C=2 D=-
+Q. "I would happily live in a place that is hard to reach if it were beautiful and wild."
+L.
+K. URB L- | OUT L+ | QUIET L+

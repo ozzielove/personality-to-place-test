@@ -1,0 +1,232 @@
+# PART VI — Career, Work Style & Leadership
+> From here on, questions feed the place-fit scales rather than your four-letter type. There are no right answers; pick the option closest to you, even if none is perfect.
+## VI-A. Field & Industry Pull
+Q. If money were equal across all options, which work would you choose?
+A. Building software, data systems, or hardware products.
+B. Caring for patients or improving people's health.
+C. Making art, music, film, writing, or design.
+D. Building, repairing, or operating physical things: construction, machinery, energy, manufacturing.
+E. Managing money, deals, investments, or risk.
+K. CAR A=TECH B=HLTH C=CREA D=TRADE E=FIN
+Q. Which headline about you would make you proudest?
+A. "Local founder's app reaches a million users."
+B. "Public servant's policy cuts commute times citywide."
+C. "Nurse practitioner opens free clinic."
+D. "Professor's research changes how we understand memory."
+E. "Family farm wins regional award for sustainable practices."
+K. CAR A=TECH B=GOV C=HLTH D=EDU E=AGRI
+Q. At a career fair, which booth do you walk to first?
+A. The federal agency or city government booth.
+B. The hospital system.
+C. The investment bank or insurance firm.
+D. The hotel group, restaurant group, or tourism board.
+E. The electrical apprenticeship program.
+K. CAR A=GOV B=HLTH C=FIN D=HOSP E=TRADE
+Q. Which task would you happily do for a full afternoon?
+A. Debugging code until it finally runs.
+B. Writing a policy memo that could influence a law.
+C. Designing a poster, editing a video, or composing a track.
+D. Teaching a class of curious students.
+E. Planning an unforgettable event for 200 guests.
+K. CAR A=TECH B=GOV C=CREA D=EDU E=HOSP
+Q. Which workplace sounds most like home?
+A. A startup loft with whiteboards and standing desks.
+B. A university campus with old trees and a library.
+C. A clinic or lab with a clear mission.
+D. A workshop, job site, or factory floor.
+E. A trading floor or a polished downtown office tower.
+K. CAR A=TECH B=EDU C=HLTH D=TRADE E=FIN
+Q. Your dream side hustle would be:
+A. A small farm stand, orchard, or apiary.
+B. A bed-and-breakfast or food truck.
+C. Freelance illustration, photography, or music gigs.
+D. Consulting on budgets and investments for friends.
+E. Building apps or automations on weekends.
+K. CAR A=AGRI B=HOSP C=CREA D=FIN E=TECH
+Q. Where is your current or intended work actually done?
+A. Fully remote; I could do it from almost anywhere with internet.
+B. Hybrid; I need an office within reach a few days a week.
+C. On-site in a specific industry hub.
+D. Wherever the customers, patients, or job sites are; it is local by nature.
+E. Not working for pay right now or retired.
+K. CAR A=REMOTE B=- C=- D=- E=REMOTE | URB A=- B=6 C=8 D=4 E=-
+Q. Which of these communities would you most like to be part of professionally?
+A. Developers and founders at meetups and hackathons.
+B. Policy wonks, nonprofit staff, and public servants.
+C. Doctors, researchers, and public-health folks.
+D. Writers, musicians, and gallery people.
+E. Ranchers, growers, and land stewards.
+K. CAR A=TECH B=GOV C=HLTH D=CREA E=AGRI
+## VI-B. Work Environment
+Q. Your ideal commute is:
+A. A walk or bike ride through a busy neighborhood.
+B. A short train or bus ride with a book.
+C. A 15-minute drive with easy parking.
+D. Down the hall to my home office or out to the barn.
+K. WALK A=10 B=8 C=1 D=4 | URB A=8 B=9 C=3 D=1
+Q. The ideal size of the organization you work for:
+A. A global company with tens of thousands of employees.
+B. A mid-sized regional organization.
+C. A small business or startup of under 50 people.
+D. Just me, or me plus a partner.
+K. URB A=10 B=6 C=5 D=3
+Q. The pace of your ideal workday:
+A. Fast and intense: deadlines, deals, adrenaline.
+B. Busy but sustainable.
+C. Steady and calm.
+D. Slow and unhurried, with long lunches.
+K. PACE A=10 B=7 C=4 D=1
+Q. "I would trade a higher salary for a shorter workweek and more free time."
+L.
+K. PACE L- | OUT L+
+Q. How important is it that your industry has many employers in the same city, so you can switch jobs without moving?
+A. Essential; I want a deep job market.
+B. Helpful but not essential.
+C. Not important; I am loyal or self-employed.
+D. Irrelevant; I am remote or not working.
+K. URB A=10 B=6 C=3 D=-
+Q. Which after-work culture appeals to you most?
+A. Networking events and rooftop drinks.
+B. Team trivia or a company softball league.
+C. Everyone goes home to their families.
+D. Colleagues who go hiking or skiing together.
+K. NIGHT A=9 B=6 C=1 D=3 | FAM A=2 B=5 C=9 D=5 | OUT A=2 B=4 C=3 D=10
+Q. Dress code you would prefer:
+A. Suits and polished shoes.
+B. Business casual.
+C. Jeans and a hoodie.
+D. Boots and work clothes, or whatever I want.
+K. PACE A=9 B=6 C=4 D=3 | URB A=9 B=6 C=5 D=2
+Q. How do you feel about a workplace that blends work and personal identity (mission-driven, social-justice focused, "we are a family")?
+A. Love it; my work should reflect my values.
+B. Like it, within limits.
+C. Neutral.
+D. I prefer clear boundaries; work is work.
+K. CIV A=8 B=6 C=5 D=4 | SOC A=8 B=6 C=5 D=3
+## VI-C. Leadership & Followership
+Q. In a group project with no assigned leader, you:
+A. Take charge immediately and assign roles.
+B. Step up if no one else does.
+C. Prefer to be a strong second-in-command.
+D. Do my part well and let others steer.
+K. NOTE
+Q. Your ideal relationship with a boss:
+A. I would rather be the boss.
+B. A mentor who gives me autonomy.
+C. A clear leader who sets direction.
+D. A collaborative peer more than a boss.
+K. NOTE
+Q. When a team you lead misses a goal, you:
+A. Analyze the failure and redesign the process.
+B. Take responsibility publicly and fix it privately.
+C. Check in on morale before anything else.
+D. Hand leadership to someone better suited.
+K. NOTE
+Q. Which leadership style do you admire most?
+A. Visionary: paints a bold future.
+B. Servant: puts the team first.
+C. Commanding: decisive in a crisis.
+D. Democratic: builds consensus.
+K. NOTE
+Q. You are offered a choice of roles on a big project. You take:
+A. Project lead, with the accountability.
+B. Lead specialist, the expert others rely on.
+C. Coordinator, keeping everything on track.
+D. Independent contributor on a piece I can own entirely.
+K. NOTE
+Q. "I would rather be a big fish in a small pond than a small fish in a big pond."
+L.
+K. URB L- | PACE L-
+Q. How do you feel about climbing a corporate ladder?
+A. Very motivated; title and scope matter to me.
+B. Somewhat motivated.
+C. Indifferent; I care about the work itself.
+D. Allergic; I would rather build something of my own or opt out.
+K. PACE A=9 B=6 C=4 D=3 | URB A=8 B=6 C=4 D=4
+Q. Your ideal level of public visibility at work:
+A. The face of the organization.
+B. Known and respected in my field.
+C. Recognized by my team.
+D. Invisible and effective.
+K. NOTE
+## VI-D. Ambition, Security & Meaning
+Q. What matters most in your next job?
+A. Pay and advancement.
+B. Stability, benefits, and security.
+C. Purpose and impact.
+D. Freedom and flexibility.
+E. Creative expression.
+K. CAR A=FIN B=GOV C=HLTH D=REMOTE E=CREA
+Q. How much career risk are you comfortable with?
+A. A lot; I would bet on a startup or my own business.
+B. Some; calculated moves only.
+C. Little; I value a reliable paycheck.
+D. Almost none; security comes first.
+K. PACE A=9 B=6 C=4 D=3
+Q. Your view on unions and skilled trades:
+A. I am in, or would love to be in, a skilled trade.
+B. I respect them and know people in them.
+C. Neutral.
+D. I have little connection to that world.
+K. CAR A=TRADE B=TRADE C=- D=-
+Q. Which would you most like to be known for professionally?
+A. Innovation.
+B. Reliability.
+C. Compassion.
+D. Craftsmanship.
+E. Wealth creation.
+K. CAR A=TECH B=GOV C=HLTH D=TRADE E=FIN
+Q. "I want a job I can leave at the office at 5 p.m."
+L.
+K. PACE L- | FAM L+
+Q. Which work problem would excite you most?
+A. Scaling a product from a thousand users to a million.
+B. Reducing emergency room wait times.
+C. Restoring a historic building.
+D. Getting a bill passed or a program funded.
+E. Opening a restaurant in a neighborhood that needs one.
+K. CAR A=TECH B=HLTH C=TRADE D=GOV E=HOSP
+Q. Your relationship with competition at work:
+A. I thrive on it; rankings motivate me.
+B. A little friendly competition is healthy.
+C. I prefer collaboration.
+D. Competitive cultures make me miserable.
+K. PACE A=10 B=7 C=4 D=2
+Q. Which of these would you happily teach others?
+A. A coding bootcamp.
+B. A college seminar.
+C. A cooking or bartending class.
+D. A welding or carpentry class.
+E. A personal-finance workshop.
+K. CAR A=TECH B=EDU C=HOSP D=TRADE E=FIN
+Q. How do you feel about seasonal work rhythms (busy summers, quiet winters, or vice versa) like those in tourism or agriculture towns?
+A. Love it; it matches my energy.
+B. Could adapt.
+C. Would prefer steady year-round work.
+D. Would find it stressful.
+K. CAR A=HOSP B=- C=- D=- | URB A=2 B=4 C=6 D=7 | PACE A=3 B=4 C=6 D=7
+Q. Your dream title in ten years:
+A. Chief Technology Officer or founder.
+B. Director of a public agency or nonprofit.
+C. Chief of Medicine or head nurse.
+D. Creative director or published author.
+E. Owner of a respected local business.
+K. CAR A=TECH B=GOV C=HLTH D=CREA E=HOSP
+Q. When work and family conflict, you most often:
+A. Prioritize work; career windows close.
+B. Try to balance, leaning toward work.
+C. Try to balance, leaning toward family.
+D. Prioritize family; work is how I fund my life.
+K. FAM A=2 B=4 C=7 D=10 | PACE A=9 B=7 C=4 D=2
+Q. Which would make you quit a job?
+A. Being stuck with no growth.
+B. A toxic culture.
+C. Values conflict with leadership.
+D. Losing flexibility.
+K. NOTE
+Q. Which describes your ideal professional reputation in your community?
+A. Known nationally in my field.
+B. Known throughout my city.
+C. Known by name at the local hardware store and diner.
+D. Not known at all; I like anonymity.
+K. URB A=9 B=7 C=2 D=8 | SOC A=6 B=7 C=9 D=2

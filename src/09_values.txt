@@ -1,0 +1,204 @@
+# PART IX — Values, Civic Outlook & Spiritual Orientation
+> This part asks about values and worldview in plain, non-partisan language. No party names are used and no answer is better than another. Civic answers feed a single Civic Climate scale running from Traditional-leaning (low) through Center/Mixed (middle) to Progressive-leaning (high), so the test can suggest places where your outlook is common and you would feel at home. If you would rather not answer a question here, choose its "Prefer not to say" option where one is offered, or simply skip it; neither is scored.
+## IX-A. Core Values
+Q. Which value would you most want your neighbors to share?
+A. Self-reliance and personal responsibility.
+B. Hospitality and looking out for one another.
+C. Curiosity and openness to new ideas.
+D. Fairness and equal opportunity for all.
+K. CIV A=2 B=4 C=7 D=8 | SOC A=3 B=9 C=6 D=6
+Q. Rank your instinct: when a community faces a problem, the best first move is usually:
+A. Families, churches, and private charities step up.
+B. Local businesses and civic clubs organize a fix.
+C. Local government steps in with a program.
+D. A broad public effort, state or federal, tackles root causes.
+E. Prefer not to say.
+K. CIV A=1 B=4 C=7 D=9 E=-
+Q. "Traditions handed down through generations deserve to be protected even when they seem outdated."
+L.
+K. CIV L-
+Q. Which statement about change do you agree with most?
+A. Change should be slow and earned; what works should be kept.
+B. Change is fine when there is a clear, practical reason.
+C. Society generally improves when we challenge old norms.
+D. We need bold, rapid change in many areas.
+E. Prefer not to say.
+K. CIV A=1 B=4 C=7 D=10 E=-
+Q. Your ideal role for government in daily life:
+A. Minimal: defense, courts, roads, and little else.
+B. Limited, with a basic safety net.
+C. Active: strong public services, regulation, and investment.
+D. Expansive: guarantees like universal healthcare and housing.
+E. Prefer not to say.
+K. CIV A=0 B=3 C=7 D=10 E=-
+Q. Community vs. individual: which feels closer to true?
+A. Strong individuals make strong communities.
+B. Mostly the individual, with some shared obligations.
+C. Mostly shared obligations, with individual freedom protected.
+D. We rise or fall together; the collective comes first.
+E. Prefer not to say.
+K. CIV A=1 B=4 C=7 D=9 E=-
+Q. How do you feel about living somewhere most people disagree with you on social issues?
+A. I enjoy it; it keeps me sharp.
+B. I can live with it comfortably.
+C. It would wear on me over time.
+D. I would not be happy; I want my values reflected around me.
+K. NOTE
+Q. Which public issue do you care about most?
+A. Economic freedom and lower taxes.
+B. Public safety and strong local law enforcement.
+C. Environmental protection and climate.
+D. Social equity and civil rights.
+E. Prefer not to say, or none of these.
+K. CIV A=1 B=3 C=8 D=9 E=-
+## IX-B. Lifestyle & Social Attitudes
+Q. Gun ownership in your community should be:
+A. Widespread and respected; it is part of the culture.
+B. Common and responsible.
+C. Allowed but tightly regulated.
+D. Rare; I would prefer few guns around.
+E. Prefer not to say.
+K. CIV A=0 B=3 C=7 D=10 E=-
+Q. How do you feel about cities adding bike lanes and transit at the expense of car lanes and parking?
+A. Strongly support.
+B. Support in moderation.
+C. Skeptical.
+D. Opposed; cars are how people get around.
+K. CIV A=9 B=6 C=3 D=1 | WALK A=10 B=7 C=3 D=0
+Q. Your feelings about local growth and new development:
+A. Build more housing, density, and mixed-use everywhere.
+B. Grow, but carefully.
+C. Protect existing neighborhood character.
+D. Keep it small and rural; resist sprawl and towers alike.
+K. URB A=10 B=6 C=4 D=0 | PACE A=8 B=6 C=4 D=2
+Q. In your ideal town, Sunday is:
+A. A quiet day for church and family; many businesses closed.
+B. A slow family day, with shops open.
+C. Brunch and errands, just another weekend day.
+D. A late-night recovery day after Saturday.
+K. FAITH A=10 B=6 C=2 D=0 | CIV A=1 B=4 C=6 D=7 | NIGHT A=0 B=2 C=5 D=10
+Q. How do you feel about cannabis dispensaries in your neighborhood?
+A. Totally fine; it is normal.
+B. Fine, as long as they are regulated.
+C. Uncomfortable.
+D. Opposed.
+E. Prefer not to say.
+K. CIV A=9 B=6 C=3 D=1 E=-
+Q. Which school-board debate would you most likely attend to speak at?
+A. Protecting parents' rights over curriculum.
+B. Keeping a focus on fundamentals and discipline.
+C. Expanding arts, language, and inclusive programs.
+D. Funding equity across rich and poor districts.
+E. Prefer not to say, or none.
+K. CIV A=1 B=3 C=7 D=9 E=-
+Q. "I prefer to live where people value privacy and mind their own business."
+L.
+K. SOC L- | URB L+
+Q. Displays of national pride (flags on porches, Fourth of July parades, military flyovers) in your neighborhood would make you feel:
+A. At home; I love it.
+B. Warm.
+C. Neutral.
+D. A little out of place.
+E. Prefer not to say.
+K. CIV A=1 B=3 C=5 D=8 E=-
+## IX-C. Ethics & Personal Code
+Q. Which do you value more in a neighbor?
+A. Loyalty.
+B. Honesty.
+C. Tolerance.
+D. Generosity.
+K. NOTE
+Q. If you could volunteer for one cause locally, it would be:
+A. A food pantry or church outreach ministry.
+B. A trail-maintenance or conservation crew.
+C. An immigrant or refugee resettlement program.
+D. A veterans' organization.
+E. A public library or arts nonprofit.
+K. FAITH A=7 B=- C=- D=- E=- | OUT A=- B=10 C=- D=- E=- | DIV A=- B=- C=10 D=- E=- | CIV A=4 B=7 C=9 D=2 E=7 | ARTS A=- B=- C=- D=- E=9
+Q. How important is environmental sustainability in your daily choices?
+A. Central; I compost, avoid flying, and vote with my wallet.
+B. Important; I make an effort.
+C. Somewhat; when it is convenient.
+D. Not much of a priority.
+K. CIV A=10 B=7 C=4 D=2 | OUT A=7 B=6 C=4 D=3
+Q. Which matters more in your community: fitting in or standing out?
+A. Fitting in; shared norms make life easier.
+B. Mostly fitting in.
+C. Mostly standing out.
+D. Standing out; weirdness is welcome.
+K. CIV A=2 B=4 C=7 D=9 | DIV A=2 B=4 C=7 D=10 | ARTS A=2 B=4 C=7 D=9
+Q. "Hard work almost always pays off for those who stick with it."
+L.
+K. CIV L-
+Q. How do you feel about being around people who live very differently from you (culturally, economically, in values)?
+A. I seek it out; it is why I would choose a place.
+B. I enjoy it.
+C. I am comfortable either way.
+D. I prefer people who share my background and way of life.
+K. DIV A=10 B=8 C=5 D=1
+Q. Your view of wealth:
+A. A sign of hard work and good choices.
+B. Fine, as long as it is earned honestly.
+C. Often a product of luck and circumstance.
+D. A structural problem when it concentrates.
+E. Prefer not to say.
+K. CIV A=1 B=4 C=7 D=10 E=-
+Q. Which phrase would you put on a welcome mat?
+A. "God bless this home."
+B. "Come back with a warrant." (said with a grin)
+C. "All are welcome here."
+D. "Go away." (lovingly)
+K. FAITH A=10 B=- C=- D=- | CIV A=2 B=1 C=8 D=- | SOC A=7 B=2 C=9 D=1
+## IX-D. Religious & Spiritual Orientation
+Q. Which best describes your spiritual or religious orientation?
+A. Devout member of a faith tradition; it shapes my daily life.
+B. Religious, attending services sometimes.
+C. Spiritual but not religious.
+D. Agnostic, atheist, or nonreligious.
+E. Prefer not to say.
+K. FAITH A=10 B=7 C=3 D=0 E=-
+Q. How important is it to live near a congregation of your specific tradition (a particular church, synagogue, mosque, temple, or meetinghouse)?
+A. Essential.
+B. Important.
+C. Nice but not necessary.
+D. Not important.
+E. Prefer not to say.
+K. FAITH A=10 B=7 C=3 D=0 E=-
+Q. A neighborhood where faith is very visible (churches on every corner, prayer at public events, religious schools):
+A. Sounds wonderful.
+B. Sounds comfortable.
+C. Neutral.
+D. Would make me feel like an outsider.
+E. Prefer not to say.
+K. FAITH A=10 B=7 C=4 D=0 E=- | CIV A=1 B=3 C=5 D=8 E=-
+Q. Which spiritual practices are part of your life?
+A. Weekly worship, prayer, and scripture.
+B. Meditation, yoga, or mindfulness.
+C. Nature as my cathedral.
+D. Alternative spirituality: astrology, energy work, crystals, and the like.
+E. None, or prefer not to say.
+K. FAITH A=10 B=4 C=2 D=4 E=- | TAG A=FAITH B=WELLNESS C=OUTDOOR D=WELLNESS E=- | OUT A=- B=- C=8 D=- E=-
+Q. Would you like your social life to be organized around a faith community?
+A. Yes; it is the center of my relationships.
+B. Partly.
+C. Rarely.
+D. No.
+E. Prefer not to say.
+K. FAITH A=10 B=6 C=2 D=0 E=- | TAG A=FAITH B=FAITH C=- D=- E=-
+Q. Interfaith and religious diversity in a community feels:
+A. Essential; I want temples, mosques, churches, and secular groups side by side.
+B. Valuable.
+C. Neutral.
+D. Less important than a strong shared faith.
+E. Prefer not to say.
+K. DIV A=10 B=7 C=4 D=1 E=- | FAITH A=- B=- C=- D=9 E=-
+Q. "My ideal community has a strong moral and religious foundation."
+L.
+K. FAITH L+ | CIV L-
+Q. Where does your sense of meaning mostly come from?
+A. God or a higher power.
+B. Family and relationships.
+C. Work and creative output.
+D. Nature and the cosmos.
+E. Social causes and justice.
+K. FAITH A=10 B=5 C=2 D=2 E=2 | FAM A=- B=9 C=- D=- E=- | ARTS A=- B=- C=8 D=- E=- | OUT A=- B=- C=- D=9 E=- | CIV A=- B=- C=- D=- E=9

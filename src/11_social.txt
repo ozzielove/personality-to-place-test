@@ -1,0 +1,193 @@
+# PART XI — Social Energy & Relationships
+> Part I measured introversion and extraversion as a type. This part asks about the practical social life you want a place to support: how often you see people, how you meet them, and how close you want your neighbors.
+## XI-A. Recharging & Rhythm
+Q. How many evenings per week do you ideally spend socializing?
+A. Five or more.
+B. Three or four.
+C. One or two.
+D. Less than one.
+K. NIGHT A=10 B=7 C=4 D=1 | SOC A=9 B=7 C=4 D=2
+Q. Your ideal ratio of planned to spontaneous social time:
+A. Mostly spontaneous: friends dropping by, running into people.
+B. A mix.
+C. Mostly planned.
+D. Strictly planned; drop-ins stress me out.
+K. WALK A=10 B=6 C=3 D=1 | URB A=8 B=6 C=4 D=3 | SOC A=9 B=6 C=4 D=2
+Q. You run into an acquaintance at the grocery store. You feel:
+A. Delighted; that is what I love about community.
+B. Pleasant.
+C. Mildly awkward.
+D. I would duck into the cereal aisle.
+K. SOC A=10 B=7 C=4 D=1 | URB A=3 B=5 C=6 D=9
+Q. "I want to know my neighbors by name and see them regularly."
+L.
+K. SOC L+ | FAM L+
+Q. Your ideal front-porch or stoop culture:
+A. Everyone out on porches, chatting until dark.
+B. A friendly wave and occasional chat.
+C. Nods of acknowledgment.
+D. Fences, hedges, and privacy.
+K. SOC A=10 B=7 C=4 D=1 | QUIET A=3 B=5 C=7 D=10
+Q. How do you prefer to make new friends as an adult?
+A. Through neighbors and local hangouts.
+B. Through clubs, leagues, and classes.
+C. Through work.
+D. Through church or a faith community.
+E. Online communities and interest groups.
+K. WALK A=9 B=5 C=4 D=3 E=- | SOC A=9 B=7 C=4 D=7 E=3 | FAITH A=- B=- C=- D=10 E=- | URB A=7 B=6 C=6 D=3 E=4
+Q. How soon do you want a new city to feel like home socially?
+A. Within weeks; I want a place where newcomers are welcomed instantly.
+B. Within a few months.
+C. Within a year or two; I am patient.
+D. I am fine being an outsider for a long time.
+K. SOC A=10 B=7 C=4 D=1
+Q. Holidays, ideally, are spent:
+A. With a big extended family, or many friends at a "friendsgiving."
+B. With immediate family.
+C. With a small chosen family.
+D. Quietly alone or traveling.
+K. FAM A=9 B=8 C=4 D=1 | SOC A=9 B=6 C=5 D=2
+## XI-B. Group Size Comfort
+Q. Your favorite type of community event:
+A. A huge street festival with thousands of people.
+B. A neighborhood block party.
+C. A potluck with 15 people.
+D. A dinner for four.
+K. URB A=10 B=6 C=4 D=4 | SOC A=8 B=9 C=7 D=4
+Q. How big a town do you picture yourself happiest in?
+A. A major city of a million or more.
+B. A mid-sized city of 200,000 to a million.
+C. A small city or college town of 30,000 to 200,000.
+D. A small town of under 30,000.
+E. Unincorporated countryside.
+K. URB A=10 B=7 C=5 D=2 E=0
+Q. Sitting at a crowded communal table at a busy restaurant:
+A. Fun; you never know who you will meet.
+B. Fine.
+C. A bit uncomfortable.
+D. Please, a booth.
+K. URB A=9 B=6 C=4 D=2 | SOC A=9 B=6 C=4 D=2
+Q. The size of your ideal friend group in a new place:
+A. A big crew of 20 or more acquaintances.
+B. A core group of 6 to 10.
+C. Three or four close friends.
+D. One trusted friend and a partner.
+K. SOC A=10 B=7 C=4 D=2
+Q. "Anonymity in a big city feels freeing, not lonely."
+L.
+K. URB L+ | SOC L-
+Q. Which would you rather host?
+A. A big open house for the whole block.
+B. A game night for eight.
+C. A dinner for two couples.
+D. I would rather be a guest than host.
+K. SOC A=10 B=7 C=5 D=3 | FAM A=6 B=5 C=5 D=3
+Q. Gated communities and HOAs:
+A. I like the order and predictability.
+B. Fine if well-run.
+C. Not for me.
+D. I actively avoid them.
+K. URB A=4 B=4 C=6 D=6 | FAM A=8 B=6 C=4 D=3 | CIV A=3 B=4 C=6 D=7
+Q. Your ideal distance to your nearest neighbor:
+A. Through the shared wall of an apartment.
+B. Across a small yard.
+C. A few hundred feet.
+D. Out of sight entirely.
+K. URB A=10 B=5 C=2 D=0 | QUIET A=1 B=5 C=8 D=10
+## XI-C. Depth vs. Breadth of Relationships
+Q. You would rather have:
+A. A wide network of acquaintances across many circles.
+B. A balance.
+C. A few deep friendships.
+D. One or two soul-level bonds.
+K. SOC A=10 B=7 C=4 D=2 | URB A=8 B=6 C=4 D=3
+Q. In your ideal community, relationships are:
+A. Fluid; people come and go, and new faces are constant.
+B. Mixed: long-timers and newcomers.
+C. Stable; most people have been here for years.
+D. Multigenerational; families know each other's grandparents.
+K. PACE A=9 B=6 C=4 D=1 | FAM A=2 B=5 C=7 D=10 | CIV A=7 B=6 C=4 D=2
+Q. How do you feel about a place where "everyone knows everyone's business"?
+A. Comforting; people look out for each other.
+B. Fine; a small price for closeness.
+C. Somewhat stifling.
+D. Suffocating.
+K. URB A=0 B=3 C=7 D=10 | SOC A=9 B=7 C=4 D=2
+Q. Your friendships tend to be built around:
+A. Shared activities: sports, hikes, hobbies.
+B. Long conversations.
+C. Family ties and shared history.
+D. Shared faith or values.
+E. Work and ambition.
+K. OUT A=8 B=- C=- D=- E=- | ARTS A=- B=6 C=- D=- E=- | FAM A=- B=- C=9 D=- E=- | FAITH A=- B=- C=- D=8 E=- | PACE A=- B=- C=- D=- E=9
+Q. "I would move somewhere I know no one, if the place was right."
+L.
+K. NOTE
+Q. Which would you rather live near?
+A. My closest friends.
+B. My family.
+C. A community of people who share my passions.
+D. No one in particular; I like a fresh start.
+K. FAM A=4 B=10 C=4 D=2 | SOC A=7 B=5 C=8 D=3
+Q. Your attitude toward a culture of politeness (Southern hospitality, Midwestern nice):
+A. I love it; it makes daily life gentler.
+B. I appreciate it.
+C. Neutral.
+D. I prefer directness, even if it is brusque.
+K. SOC A=10 B=7 C=5 D=3 | URB A=3 B=4 C=6 D=9 | CIV A=3 B=4 C=6 D=6
+Q. If you could join one local "tribe," which would it be?
+A. The climbers, skiers, or surfers.
+B. The artists and musicians.
+C. The church family.
+D. The founders and builders.
+E. The gardeners and homesteaders.
+K. TAG A=OUTDOOR B=ARTSY C=FAITH D=STARTUP E=FARM
+## XI-D. Social Scenarios
+Q. You move to a new neighborhood. Within the first month, you would most like to have:
+A. Been invited to three neighbors' homes.
+B. Found a favorite bar or cafe where they know my order.
+C. Joined a running club or climbing gym.
+D. Found a congregation.
+E. Been left alone to settle in.
+K. SOC A=10 B=7 C=7 D=8 E=1 | WALK A=- B=9 C=- D=- E=- | OUT A=- B=- C=10 D=- E=- | FAITH A=- B=- C=- D=10 E=-
+Q. A local tradition you would most love to be part of:
+A. Friday-night high school football.
+B. A weekly farmers market and folk music.
+C. First Fridays art walks.
+D. A First Day hike or polar plunge on New Year's.
+E. A Mardi Gras or Pride parade.
+K. TAG A=SPORTS B=FARM C=ARTSY D=OUTDOOR E=NIGHTLIFE | FAM A=9 B=6 C=3 D=4 E=3 | CIV A=2 B=6 C=7 D=6 E=8
+Q. You hear your town is about to be "discovered" by newcomers and get trendy. You feel:
+A. Excited; more energy and restaurants.
+B. Cautiously optimistic.
+C. Worried about rising rents.
+D. Upset; I chose it because it was undiscovered.
+K. PACE A=9 B=6 C=4 D=2 | COST A=2 B=4 C=8 D=7 | URB A=8 B=6 C=4 D=2
+Q. You would find it easiest to bond with:
+A. People older than me.
+B. People my own age.
+C. People younger than me.
+D. Anyone; age does not matter.
+K. TAG A=RETIRE B=- C=COLLEGE D=-
+Q. How much do you want your neighbors to look and think like you?
+A. Very little; I want a mix of everything.
+B. Some mix, some similarity.
+C. Mostly similar.
+D. Very similar.
+K. DIV A=10 B=6 C=3 D=1
+Q. At a neighborhood association meeting, you would be:
+A. Chairing it.
+B. Speaking up.
+C. Listening quietly.
+D. Not there.
+K. SOC A=9 B=7 C=4 D=1 | FAM A=7 B=6 C=4 D=2
+Q. Volunteering in your new community would most likely look like:
+A. Coaching youth sports.
+B. Serving at a church or synagogue meal program.
+C. Organizing a neighborhood cleanup or tenants' group.
+D. Ushering at the local theater or museum.
+E. I am unlikely to volunteer locally.
+K. FAM A=10 B=6 C=4 D=3 E=- | FAITH A=- B=10 C=- D=- E=- | CIV A=4 B=4 C=8 D=6 E=- | ARTS A=- B=- C=- D=9 E=- | SOC A=8 B=8 C=9 D=6 E=1
+Q. "I feel most at home where people are friendly to strangers on the street."
+L.
+K. SOC L+

@@ -1,0 +1,193 @@
+# PART X — Stress, Conflict & Decisions Under Pressure
+## X-A. Stress Responses
+Q. When you are overwhelmed, your body's first signal is usually:
+A. Restlessness; I need to move.
+B. Irritability; small things set me off.
+C. Exhaustion; I want to sleep.
+D. Tension: headaches, a tight jaw, a knotted stomach.
+K. NOTE
+Q. Your go-to way to decompress after a terrible day:
+A. A hard workout or a long run outdoors.
+B. Drinks or dinner out with friends.
+C. Silence: a dark room, a bath, no screens.
+D. Prayer, meditation, or a spiritual practice.
+E. Making something with my hands.
+K. OUT A=10 B=2 C=3 D=3 E=4 | NIGHT A=2 B=9 C=1 D=1 E=2 | QUIET A=5 B=2 C=10 D=8 E=6 | FAITH A=- B=- C=- D=8 E=- | TAG A=OUTDOOR B=NIGHTLIFE C=- D=WELLNESS E=MAKER
+Q. A traffic jam makes you 30 minutes late. You:
+A. Fume the whole time.
+B. Get annoyed but use the time to make calls.
+C. Shrug and turn up a podcast.
+D. Rarely face traffic because I chose a life without it.
+K. URB A=5 B=7 C=6 D=1 | PACE A=6 B=8 C=5 D=2
+Q. Which environment would most reduce your daily stress?
+A. A quiet house with land around it.
+B. A walkable neighborhood where everything is close.
+C. A small town where everyone knows each other.
+D. A place near the ocean or a lake.
+E. A place near mountains or forest trails.
+K. QUIET A=10 B=4 C=7 D=6 E=8 | URB A=0 B=9 C=2 D=4 E=2 | WALK A=0 B=10 C=6 D=4 E=3 | SOC A=3 B=6 C=9 D=5 E=5 | WATER A=- B=- C=- D=10 E=- | MTN A=- B=- C=- D=- E=10 | FOREST A=6 B=- C=- D=- E=8
+Q. "A fast pace of life energizes me rather than stresses me."
+L.
+K. PACE L+ | URB L+
+Q. Under chronic stress, you are most likely to:
+A. Work harder and longer.
+B. Withdraw from people.
+C. Seek out friends and talk it through.
+D. Escape into games, shows, or books.
+K. NOTE
+Q. Weather affects your mood:
+A. Enormously; gray winters drag me down.
+B. Somewhat; I notice the seasons.
+C. Not much.
+D. I actually love dramatic weather: storms, blizzards, heat waves.
+K. HEAT A=8 B=5 C=- D=3 | SEAS A=2 B=6 C=- D=10 | DRY A=8 B=5 C=- D=3
+Q. If you could remove one stressor from your life forever, it would be:
+A. Commuting.
+B. Money worries.
+C. Loneliness.
+D. Noise and crowds.
+E. Lack of time outdoors.
+K. WALK A=8 B=- C=- D=- E=- | COST A=- B=10 C=- D=- E=- | SOC A=- B=- C=10 D=- E=- | QUIET A=- B=- C=- D=10 E=- | OUT A=- B=- C=- D=- E=10
+## X-B. Conflict Resolution Style
+Q. A neighbor's dog barks every night until midnight. You:
+A. Knock on their door and talk it out that week.
+B. Leave a polite note.
+C. Endure it and complain to friends.
+D. Call the HOA, landlord, or city.
+E. Start looking for a place with more distance between houses.
+K. URB A=5 B=6 C=5 D=6 E=0 | QUIET A=5 B=5 C=5 D=6 E=10
+Q. In a disagreement with a close friend, you:
+A. Address it head-on right away.
+B. Wait until emotions cool, then talk.
+C. Drop hints and hope they notice.
+D. Let it go to preserve the friendship.
+K. NOTE
+Q. Which conflict style do you most admire in others?
+A. Direct and fearless.
+B. Calm and diplomatic.
+C. Warm and forgiving.
+D. Strategic and patient.
+K. NOTE
+Q. How do you feel about a community culture where people say exactly what they think, even bluntly?
+A. Love it; I always know where I stand.
+B. Like it, mostly.
+C. Prefer a little more politeness.
+D. Prefer a culture of gentle manners and indirect kindness.
+K. URB A=9 B=6 C=4 D=3 | SOC A=4 B=5 C=7 D=9
+Q. A coworker takes credit for your work in a meeting. You:
+A. Correct the record on the spot.
+B. Talk to them privately afterward.
+C. Tell my manager.
+D. Let it slide and quietly protect my work in the future.
+K. NOTE
+Q. When a local controversy erupts (a new development, a school policy), you:
+A. Show up at the town meeting and speak.
+B. Write a letter or post a thoughtful comment.
+C. Discuss it with friends but stay out publicly.
+D. Avoid it entirely.
+K. SOC A=8 B=6 C=4 D=2
+Q. "I would rather live somewhere people avoid confrontation than somewhere they air every grievance."
+L.
+K. SOC L+ | URB L-
+Q. After an argument, you recover:
+A. Within minutes.
+B. Within a few hours.
+C. Within a day or two.
+D. Slowly; I replay it for a long time.
+K. NOTE
+## X-C. Decisions Under Pressure
+Q. A fire alarm goes off in a crowded building. You:
+A. Take charge and direct people to exits.
+B. Calmly follow the procedure.
+C. Look to others to see whether it is real.
+D. Feel a spike of panic but get out fast.
+K. NOTE
+Q. You have 24 hours to accept or decline a job in another city. You:
+A. Decide in an hour, using gut instinct.
+B. Make a pros-and-cons list and decide by evening.
+C. Call everyone I trust for advice.
+D. Ask for an extension; I cannot decide that fast.
+K. NOTE
+Q. In an emergency, people expect you to be:
+A. The leader.
+B. The calm one.
+C. The caretaker.
+D. The researcher who knows what to do.
+K. NOTE
+Q. When stakes are high, you trust:
+A. Data and analysis.
+B. Experience and precedent.
+C. Advice from people I trust.
+D. My gut.
+E. Prayer or spiritual guidance.
+K. FAITH A=- B=- C=- D=- E=9
+Q. You are about to sign a lease for a dream apartment, but at the last minute you find a cheaper, less exciting option. You:
+A. Sign the dream apartment; life is short.
+B. Lean toward the dream but negotiate.
+C. Lean toward the cheaper one.
+D. Take the cheaper one; money saved is freedom earned.
+K. COST A=0 B=3 C=7 D=10
+Q. Which statement about risk fits you?
+A. Big risks, big rewards.
+B. Calculated risks only.
+C. I prefer stability.
+D. I avoid risk wherever I can.
+K. PACE A=9 B=6 C=4 D=2
+Q. A hurricane, wildfire, blizzard, or tornado warning is issued for your area. Which would you find most tolerable as a recurring possibility where you live?
+A. Hurricanes and tropical storms.
+B. Wildfire smoke and fire seasons.
+C. Blizzards and ice storms.
+D. Tornadoes and severe thunderstorms.
+E. Earthquakes.
+K. HEAT A=9 B=6 C=1 D=6 E=6 | DRY A=1 B=9 C=4 D=3 E=7 | SEAS A=2 B=4 C=10 D=7 E=3 | WATER A=8 B=- C=- D=- E=6
+Q. "I make my best decisions when I slow down and step away from the noise."
+L.
+K. QUIET L+ | PACE L-
+## X-D. Coping Resources
+Q. When life gets hard, the support system you lean on most is:
+A. Close friends nearby.
+B. Family.
+C. A faith community.
+D. Myself.
+E. A therapist, support group, or professional.
+K. SOC A=8 B=5 C=7 D=2 E=5 | FAM A=- B=9 C=- D=- E=- | FAITH A=- B=- C=10 D=- E=- | URB A=- B=- C=- D=- E=7
+Q. A burnout recovery month would look like:
+A. A remote cabin, no Wi-Fi.
+B. A beach town with long walks and good food.
+C. Staying in the city but taking classes and seeing friends.
+D. A mountain town with daily hikes.
+E. Visiting family back home.
+K. URB A=0 B=3 C=10 D=2 E=- | WATER A=- B=10 C=- D=- E=- | MTN A=- B=- C=- D=10 E=- | QUIET A=10 B=6 C=2 D=7 E=- | FAM A=- B=- C=- D=- E=8
+Q. Being near a major hospital, police presence, and services makes you feel:
+A. Safe and reassured.
+B. Somewhat reassured.
+C. Indifferent.
+D. Like I am in a place that is too busy.
+K. URB A=8 B=6 C=4 D=1
+Q. Your relationship with routine during stressful times:
+A. I cling to it; routine keeps me sane.
+B. I lean on it.
+C. I break it to shake things up.
+D. I abandon it entirely.
+K. NOTE
+Q. "Being near nature is the single most reliable way I recover from stress."
+L.
+K. OUT L+ | FOREST L+ | URB L-
+Q. If you had to choose one: a short drive to a big-city airport, or a long drive to a small regional one with quiet roads in between?
+A. Big-city airport close by; I travel often.
+B. Close airport preferred.
+C. Regional airport is fine.
+D. Quiet roads; I rarely fly.
+K. URB A=9 B=7 C=3 D=1 | QUIET A=2 B=4 C=7 D=10
+Q. When you feel isolated, you:
+A. Go to a busy public place just to be around people.
+B. Call someone.
+C. Join an organized activity.
+D. Embrace it; isolation rarely bothers me.
+K. URB A=9 B=5 C=5 D=1 | SOC A=7 B=6 C=8 D=2
+Q. How do you handle uncertainty about where you will live in five years?
+A. It excites me.
+B. I am open to it.
+C. It makes me uneasy.
+D. I want roots; I plan to stay put.
+K. FAM A=2 B=4 C=7 D=9 | PACE A=8 B=6 C=4 D=2

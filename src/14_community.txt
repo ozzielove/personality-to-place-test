@@ -1,0 +1,273 @@
+# PART XIV — Community & Subculture Fit
+> The best place for you is not only a climate and a density; it is a tribe. These questions identify the subcultures you would thrive in. Many answers add points to Subculture Tags, which give bonus points to locations known for that scene.
+## XIV-A. Arts, Music & Creative Scenes
+Q. Which arts scene would you most want to be part of?
+A. A big-city scene: major museums, Broadway-style theater, symphonies.
+B. A gritty, DIY scene: warehouse galleries, zines, house shows.
+C. A small-town arts colony: studios, galleries, and art walks.
+D. A folk and heritage scene: quilting, woodcarving, old-time music.
+E. Arts are not a priority for me.
+K. ARTS A=10 B=9 C=8 D=5 E=0 | URB A=10 B=8 C=3 D=1 E=- | TAG A=ARTSY B=ARTSY C=ARTSY D=HISTORY E=-
+Q. Which music city would you most like to call home?
+A. A city of honky-tonks and songwriters' rounds.
+B. A city of jazz clubs, brass bands, and second lines.
+C. A city of indie rock and record stores.
+D. A city with a world-class orchestra and opera.
+E. Music is not a deciding factor.
+K. TAG A=MUSIC B=MUSIC C=MUSIC D=ARTSY E=- | NIGHT A=8 B=10 C=8 D=4 E=- | HEAT A=7 B=9 C=4 D=- E=-
+Q. You see a flyer for an open-mic night at a local cafe. You:
+A. Sign up to perform.
+B. Go and cheer.
+C. Might go if friends are going.
+D. Pass.
+K. ARTS A=10 B=8 C=4 D=1 | TAG A=ARTSY B=MUSIC C=- D=-
+Q. "I want to live among artists, makers, and eccentrics."
+L.
+K. ARTS L+ | DIV L+ | TAG L+ARTSY
+Q. Murals, street art, and quirky public art make a neighborhood feel:
+A. Alive; I want them everywhere.
+B. Charming.
+C. Fine.
+D. Messy; I prefer clean, traditional streetscapes.
+K. ARTS A=10 B=7 C=4 D=1 | CIV A=8 B=6 C=4 D=2 | URB A=8 B=6 C=4 D=3
+Q. A community theater production of a classic musical, in a small town, would be:
+A. The highlight of my season.
+B. Charming.
+C. Something I would go to support friends.
+D. Not my thing.
+K. ARTS A=6 B=5 C=3 D=1 | SOC A=9 B=7 C=6 D=2 | URB A=2 B=3 C=4 D=-
+## XIV-B. Food, Drink & Market Culture
+Q. Which food culture would you join most enthusiastically?
+A. A "foodie city" with acclaimed chefs and new openings every week.
+B. A barbecue, crawfish-boil, or church-supper culture.
+C. A farm-to-table, CSA, and farmers-market culture.
+D. A brewery, winery, or distillery region.
+E. Food is not a deciding factor.
+K. TAG A=FOODIE B=HISTORY C=FARM D=FOODIE E=- | URB A=10 B=3 C=4 D=4 E=-
+Q. Your Saturday market of choice:
+A. A huge urban market with 100 vendors and global street food.
+B. A small-town farmers market with folk music.
+C. A flea market or antique fair.
+D. A big-box store; markets are not my thing.
+K. URB A=10 B=3 C=4 D=4 | TAG A=FOODIE B=FARM C=HISTORY D=- | DIV A=9 B=4 C=4 D=2
+Q. "A neighborhood without good independent restaurants is not a neighborhood I want."
+L.
+K. URB L+ | WALK L+ | TAG L+FOODIE
+## XIV-C. Tech, Startup & Career Communities
+Q. A startup scene (coworking spaces, pitch nights, venture capital) in your city would be:
+A. Essential; I want to build something.
+B. Exciting to be near.
+C. Irrelevant.
+D. A negative; it brings rising costs and tech culture.
+K. TAG A=STARTUP B=STARTUP C=- D=- | CAR A=TECH B=TECH C=- D=- | PACE A=9 B=7 C=4 D=3 | COST A=2 B=4 C=6 D=8
+Q. Which professional community excites you most?
+A. Tech founders and engineers.
+B. Public servants and policy people.
+C. Doctors and medical researchers.
+D. Artists, writers, and filmmakers.
+E. Farmers, builders, and tradespeople.
+K. CAR A=TECH B=GOV C=HLTH D=CREA E=TRADE
+Q. A "company town" dominated by one big employer (a university, a hospital, a military base, a big manufacturer) feels:
+A. Stable and reassuring.
+B. Fine.
+C. A little limiting.
+D. Too risky and monotonous.
+K. URB A=3 B=5 C=7 D=9 | PACE A=3 B=5 C=7 D=8
+## XIV-D. Outdoors & Adventure Culture
+Q. In your ideal town, the local status symbol is:
+A. A roof-rack full of skis, bikes, and kayaks.
+B. A beautifully restored historic home.
+C. A big pickup and a bass boat.
+D. A well-loved garden and chickens.
+E. A gallery opening in your honor.
+K. TAG A=OUTDOOR B=HISTORY C=OUTDOOR D=FARM E=ARTSY | OUT A=10 B=2 C=7 D=4 E=1 | CIV A=7 B=4 C=1 D=6 E=8
+Q. Which outdoor community would you join?
+A. A trail-running or mountain-biking club.
+B. A surf or sailing crew.
+C. A hunting and fishing club.
+D. A birding or native-plant society.
+E. A golf or country club.
+K. TAG A=OUTDOOR B=BEACH C=OUTDOOR D=OUTDOOR E=RETIRE | OUT A=10 B=9 C=8 D=5 E=4 | CIV A=7 B=6 C=1 D=7 E=2 | MTN A=8 B=- C=4 D=- E=- | WATER A=- B=10 C=5 D=- E=-
+Q. "I want to live in a place where my neighbors are as obsessed with the outdoors as I am."
+L.
+K. OUT L+ | TAG L+OUTDOOR
+Q. A ski town in winter (crowded lifts, fresh powder, apres-ski) sounds:
+A. Like heaven.
+B. Fun for a season.
+C. Too expensive and cold.
+D. Like my nightmare.
+K. TAG A=SKI B=SKI C=- D=- | MTN A=10 B=7 C=3 D=0 | SEAS A=10 B=7 C=2 D=0 | COST A=1 B=3 C=9 D=- 
+Q. A beach town in summer (boardwalks, surf shops, tourists, sunsets):
+A. Like heaven.
+B. Fun for a season.
+C. Too crowded.
+D. Not for me.
+K. TAG A=BEACH B=BEACH C=- D=- | WATER A=10 B=7 C=4 D=1 | HEAT A=9 B=7 C=4 D=2
+## XIV-E. College Towns & Intellectual Communities
+Q. Living in a college town (student energy, football Saturdays, lectures, cheap eats) sounds:
+A. Perfect; I love the energy.
+B. Good, if I am not right next to campus.
+C. Fine for a few years.
+D. Unappealing.
+K. TAG A=COLLEGE B=COLLEGE C=- D=- | NIGHT A=8 B=5 C=4 D=2 | CIV A=8 B=6 C=5 D=3
+Q. Which campus vibe would feel most like home?
+A. An Ivy-style campus with old stone buildings.
+B. A big state school with a massive stadium.
+C. A small liberal-arts college with a quirky arts scene.
+D. A faith-based university with a strong spiritual community.
+E. No campus vibe for me.
+K. TAG A=COLLEGE B=SPORTS C=ARTSY D=FAITH E=- | CIV A=7 B=4 C=9 D=1 E=- | FAITH A=- B=- C=- D=10 E=- | SEAS A=8 B=- C=- D=- E=-
+## XIV-F. Identity, Diversity & Inclusion
+Q. How important is it that your community is racially and ethnically diverse?
+A. Essential.
+B. Very important.
+C. Somewhat important.
+D. Not a factor.
+K. DIV A=10 B=8 C=5 D=1
+Q. How important is a visible LGBTQ+ community (bars, centers, Pride events) where you live?
+A. Essential.
+B. Important; I want inclusion even if I am not personally part of it.
+C. Neutral.
+D. I prefer communities where it is not a focus.
+K. TAG A=LGBTQ B=LGBTQ C=- D=- | DIV A=10 B=8 C=5 D=1 | CIV A=10 B=8 C=5 D=2
+Q. Which would you most like to hear spoken around you on a daily walk?
+A. A dozen languages.
+B. English and Spanish.
+C. English with a strong regional accent.
+D. Birdsong.
+K. DIV A=10 B=7 C=2 D=- | URB A=10 B=6 C=3 D=0 | HEAT A=- B=7 C=- D=-
+Q. "I want to live somewhere being different is celebrated."
+L.
+K. DIV L+ | CIV L+
+Q. A community with a strong shared ethnic, cultural, or religious heritage (Dutch Reformed towns, Amish country, historic Black neighborhoods, Latino barrios, Jewish enclaves):
+A. Very appealing if it is my heritage.
+B. Appealing to experience as a respectful neighbor.
+C. Neutral.
+D. I prefer places without a dominant identity.
+K. FAITH A=6 B=4 C=- D=1 | DIV A=3 B=7 C=- D=9 | TAG A=HISTORY B=HISTORY C=- D=-
+## XIV-G. Faith Communities
+Q. Your ideal relationship between your town and its churches, temples, or faith institutions:
+A. Faith is woven into civic life: prayer at games, church festivals, Sunday closures.
+B. Faith communities are visible and active, but civic life is secular.
+C. Faith is private; I barely notice it.
+D. I would prefer a strongly secular place.
+K. FAITH A=10 B=6 C=2 D=0 | CIV A=1 B=5 C=7 D=9
+Q. Which faith or spiritual scene would you seek out?
+A. A large, active congregation with youth programs and small groups.
+B. A historic church, synagogue, or temple with liturgy and tradition.
+C. A progressive or interfaith congregation.
+D. A meditation center, yoga ashram, or alternative spiritual community.
+E. None.
+K. FAITH A=10 B=8 C=6 D=4 E=0 | TAG A=FAITH B=FAITH C=FAITH D=WELLNESS E=- | CIV A=1 B=4 C=9 D=8 E=- | FAM A=9 B=5 C=5 D=2 E=-
+Q. A town known for its spiritual energy, vortexes, and healing retreats sounds:
+A. Exactly my kind of place.
+B. Intriguing.
+C. Not for me, but harmless.
+D. Off-putting.
+K. TAG A=WELLNESS B=WELLNESS C=- D=- | DESERT A=7 B=5 C=- D=- | FAITH A=4 B=3 C=1 D=4
+## XIV-H. Nightlife vs. Quiet
+Q. On a Saturday night at 11 p.m., the ideal sound from your street is:
+A. Bass from a club and laughter from a bar patio.
+B. A few voices and a distant band.
+C. Crickets.
+D. Absolute silence.
+K. NIGHT A=10 B=6 C=1 D=0 | QUIET A=0 B=4 C=8 D=10 | URB A=10 B=6 C=1 D=1 | TAG A=NIGHTLIFE B=MUSIC C=- D=-
+Q. LGBTQ+ nightlife, drag brunch, and cabaret are:
+A. A big part of my social life.
+B. Fun now and then.
+C. Neutral.
+D. Not my thing.
+K. TAG A=LGBTQ B=NIGHTLIFE C=- D=- | NIGHT A=10 B=7 C=4 D=2 | DIV A=10 B=8 C=5 D=2
+Q. "My ideal town is quiet, safe, and a little boring, and I mean that as a compliment."
+L.
+K. QUIET L+ | NIGHT L- | FAM L+ | PACE L-
+## XIV-I. Sports Culture
+Q. Which sports culture would you fit best?
+A. A big-league city with pro teams in every sport.
+B. A college football town where Saturday is a holy day.
+C. A high school sports town: Friday night lights.
+D. A participation culture: marathons, rec leagues, and races.
+E. I do not care about sports culture.
+K. TAG A=SPORTS B=SPORTS C=SPORTS D=OUTDOOR E=- | URB A=10 B=4 C=1 D=5 E=- | FAM A=4 B=6 C=10 D=5 E=- | OUT A=- B=- C=- D=9 E=-
+Q. Tailgating, team colors, and rivalries:
+A. Life itself.
+B. Fun.
+C. Tolerable.
+D. Baffling.
+K. TAG A=SPORTS B=SPORTS C=- D=- | SOC A=9 B=7 C=4 D=2
+## XIV-J. Maker, DIY & Agrarian Culture
+Q. A town with a hardware store, a feed store, a makerspace, and a tool library:
+A. Is my dream; I build and fix things.
+B. Sounds practical.
+C. Is fine.
+D. Does not matter to me.
+K. TAG A=MAKER B=MAKER C=- D=- | URB A=2 B=4 C=5 D=7
+Q. Homesteading, backyard chickens, and self-sufficiency:
+A. A life goal.
+B. Appealing on a small scale.
+C. Interesting but not for me.
+D. No interest.
+K. TAG A=FARM B=FARM C=- D=- | URB A=0 B=3 C=6 D=8 | COST A=8 B=6 C=4 D=3
+Q. Craft culture: small-batch everything (coffee roasters, letterpress, leatherworkers, woodworkers):
+A. I want to be one of them.
+B. I want to buy from them.
+C. Neutral.
+D. Overpriced and precious.
+K. TAG A=MAKER B=MAKER C=- D=- | ARTS A=8 B=6 C=4 D=2 | COST A=2 B=3 C=5 D=8
+## XIV-K. Retirement-Style & Multigenerational Communities
+Q. A planned active-adult community with golf carts, pickleball courts, clubs, and organized social calendars:
+A. Sounds wonderful now or soon.
+B. Sounds wonderful someday.
+C. Not for me.
+D. My worst nightmare.
+K. TAG A=RETIRE B=RETIRE C=- D=- | HEAT A=9 B=7 C=- D=- | PACE A=2 B=3 C=5 D=7 | SOC A=9 B=7 C=4 D=3
+Q. Your ideal age mix in your neighborhood:
+A. Mostly young adults and students.
+B. Young families and kids.
+C. All ages mixed together.
+D. Mostly empty-nesters and retirees.
+K. TAG A=COLLEGE B=- C=- D=RETIRE | FAM A=2 B=10 C=6 D=3 | NIGHT A=9 B=3 C=5 D=1 | PACE A=8 B=6 C=5 D=2
+Q. Accessible living (flat terrain, single-level homes, nearby medical care, shuttle services) matters:
+A. A lot right now.
+B. It will soon.
+C. Not yet.
+D. Prefer not to say.
+K. TAG A=RETIRE B=RETIRE C=- D=- | MTN A=1 B=3 C=- D=- | URB A=6 B=5 C=- D=-
+## XIV-L. Overall Community Character
+Q. Which community motto would you most want on your welcome sign?
+A. "Keep It Weird."
+B. "Where Tradition Lives."
+C. "Live Free and Play Hard."
+D. "The Friendliest Town in America."
+E. "Where Innovation Happens."
+K. TAG A=ARTSY B=HISTORY C=OUTDOOR D=- E=STARTUP | CIV A=9 B=1 C=4 D=4 E=6 | SOC A=6 B=6 C=5 D=10 E=5
+Q. Which would bother you more?
+A. A town that feels culturally homogeneous.
+B. A town that feels like it is losing its traditions.
+C. A town with no outdoor recreation.
+D. A town with no nightlife.
+E. A town where housing is unaffordable.
+K. DIV A=10 B=1 C=- D=- E=- | CIV A=8 B=1 C=- D=- E=- | OUT A=- B=- C=10 D=- E=- | NIGHT A=- B=- C=- D=10 E=- | COST A=- B=- C=- D=- E=10
+Q. How politically mixed would you like your community to be?
+A. Strongly aligned with my views.
+B. Leaning my way, with some mix.
+C. Evenly mixed.
+D. I do not care.
+K. NOTE
+Q. If you had to pick your community's "personality type," it would be:
+A. The Artist: creative, unconventional, expressive.
+B. The Guardian: traditional, dependable, family-first.
+C. The Adventurer: outdoorsy, sporty, spontaneous.
+D. The Visionary: ambitious, innovative, fast-moving.
+E. The Neighbor: friendly, modest, community-minded.
+K. TAG A=ARTSY B=FAITH C=OUTDOOR D=STARTUP E=- | CIV A=9 B=1 C=5 D=7 E=4 | PACE A=5 B=3 C=5 D=10 E=3 | SOC A=6 B=7 C=6 D=5 E=10
+Q. Which "third place" (not home, not work) would you want within a few blocks?
+A. A dive bar or music venue.
+B. A coffee shop or bookstore.
+C. A church hall or community center.
+D. A climbing gym or bike shop.
+E. A diner or general store.
+K. TAG A=NIGHTLIFE B=ARTSY C=FAITH D=OUTDOOR E=HISTORY | NIGHT A=10 B=4 C=1 D=3 E=2 | WALK A=8 B=9 C=6 D=6 E=4 | URB A=8 B=7 C=3 D=5 E=1
+Q. "I would rather be a regular in a small town than anonymous in a big city."
+L.
+K. URB L- | SOC L+

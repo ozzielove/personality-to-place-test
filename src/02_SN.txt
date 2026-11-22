@@ -1,0 +1,278 @@
+# PART II — Sensing (S) vs. Intuition (N)
+> This part looks at the kind of information you trust and enjoy: concrete facts, details, and direct experience (Sensing), or patterns, possibilities, and meanings (Intuition).
+## II-A. Detail vs. Big Picture
+Q. A friend describes a new restaurant. Which description makes you want to go?
+A. "The brisket is smoked for 14 hours, the portions are huge, and it is $18 with two sides."
+B. "Great barbecue, reasonable prices, friendly staff."
+C. "It has a cool vibe, like a speakeasy crossed with a family reunion."
+D. "It feels like the beginning of something; this whole block is about to change."
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. You are assembling a new bookshelf. You:
+A. Lay out every piece, count the screws, and follow the instructions step by step.
+B. Skim the instructions, then follow them where it matters.
+C. Look at the picture on the box and figure it out as you go.
+D. Get halfway, realize you could redesign it to be better, and modify it.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. After a vacation, what do you remember most vividly?
+A. Specific sensory details: the smell of the market, the texture of the sand, the exact meal.
+B. The activities we did and the places we went, in order.
+C. The overall feeling of the trip and what it meant to me.
+D. The ideas and insights it sparked about how I want to live.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. When reading a news article, you most want:
+A. Hard numbers, dates, names, and quotes.
+B. A clear summary of what happened.
+C. Analysis of why it happened.
+D. Speculation about what it means for the future.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. You notice when a coworker:
+A. Gets a haircut or wears new shoes, immediately.
+B. Changes something significant about their appearance.
+C. Seems to be in a different mood than usual.
+D. Is going through a broader life shift, often before they mention it.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. When giving directions, you say:
+A. "Go 0.4 miles, turn left at the Shell station, it is the third house with the green door."
+B. "Left at the gas station, then look for the green door."
+C. "Head toward the river and you will see it, sort of on the hill."
+D. "Just put it in your phone; I am terrible with directions."
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Which compliment pleases you most?
+A. "You are so practical and reliable."
+B. "You are very observant."
+C. "You are so creative."
+D. "You see things nobody else sees."
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. "I would rather perfect a method that works than invent a new one."
+L.
+K. SN L=S
+## II-B. Present vs. Future Orientation
+Q. You spend a spare hour daydreaming. What are you thinking about?
+A. I do not really daydream; I would rather do something.
+B. What I will cook for dinner or what I need to fix this weekend.
+C. Where I might be in five years.
+D. Entire alternate lives, inventions, or worlds.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. A coworker pitches a radical new way of doing your team's main process. Your first reaction is:
+A. "What is wrong with the way it works now?"
+B. "Show me data from a pilot first."
+C. "Interesting; what else could this change?"
+D. "Yes! And while we are at it, let us rethink the whole department."
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Which statement fits you best?
+A. Enjoy the moment; tomorrow will take care of itself.
+B. Focus on what is right in front of you and handle it well.
+C. Keep one eye on where things are heading.
+D. I live largely in the future; the present is mostly a launch pad.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. When you plan a garden, you think mostly about:
+A. Soil, sunlight hours, spacing, and which tomato variety yields best.
+B. Which plants I like and what grows well here.
+C. How it will look and feel in three summers.
+D. Whether the garden could become a community space, a business, or an art project.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Your relationship with nostalgia and history:
+A. I treasure traditions and how things have always been done.
+B. I like remembering good times, but mostly I am in the present.
+C. I am more interested in what is coming than what has been.
+D. The past is interesting only as a pattern that predicts the future.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. You are handed a vague assignment: "Make the onboarding experience better." You:
+A. Ask for specific metrics and current pain points before starting.
+B. Interview a few new hires to find concrete problems.
+C. Sketch three different visions of what onboarding could be.
+D. Question whether onboarding should exist in its current form at all.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. "I often get so absorbed in imagining possibilities that I miss what is happening around me."
+L.
+K. SN L=N
+Q. You inherit a run-down cabin. Your first weekend there, you:
+A. Inspect the roof, plumbing, and wiring and write a repair list.
+B. Clean it up and make it usable right away.
+C. Imagine what it could become with the right vision.
+D. Dream up five wildly different uses for it, from artist residency to tiny resort.
+K. SN A=S2 B=S1 C=N1 D=N2
+## II-C. Concrete vs. Abstract Thinking
+Q. Which class sounds most appealing?
+A. Woodworking or auto repair.
+B. Applied statistics or bookkeeping.
+C. Psychology or comparative literature.
+D. Philosophy of mind or theoretical physics.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. You explain a concept to a friend. You naturally use:
+A. A step-by-step demonstration.
+B. A concrete real-world example.
+C. An analogy or metaphor.
+D. A theory or framework that ties it to other concepts.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Which book would you pick for a long flight?
+A. A practical how-to guide or a detailed true-crime account.
+B. A biography or a well-researched history.
+C. A literary novel full of symbolism.
+D. Speculative science fiction or a book of big ideas.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. When you hear a song for the first time, you notice:
+A. The instruments, production quality, and how it sounds.
+B. The beat and whether it is catchy.
+C. The mood and what it reminds me of.
+D. The hidden meaning in the lyrics and what the artist is really saying.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Talk of "the meaning of life" makes you:
+A. Restless; let us talk about something real.
+B. Mildly interested for a few minutes.
+C. Engaged; I like these conversations.
+D. Light up; I could do this until 3 a.m.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. In a museum, you spend the most time:
+A. At exhibits with real artifacts you can examine up close.
+B. Reading the placards about when and how things were made.
+C. At pieces that make you feel something.
+D. At pieces that make you question something.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Your attitude toward instruction manuals:
+A. I read them thoroughly before starting.
+B. I consult them when needed.
+C. I rarely look; I prefer to explore.
+D. I often find a use for the product the manual never mentions.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. "Facts speak for themselves; I distrust interpretations."
+L.
+K. SN L=S
+## II-D. Trust in Experience vs. Hunches
+Q. Choosing a contractor, you rely most on:
+A. Licenses, references, and their track record on similar jobs.
+B. Reviews and a solid written quote.
+C. My overall impression of them after a conversation.
+D. A gut feeling I cannot fully explain.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. You have a strong hunch a friend's new partner is not right for them, but you cannot point to evidence. You:
+A. Dismiss it; hunches without facts are not worth much.
+B. Keep an eye out for concrete warning signs.
+C. Trust it enough to stay alert and maybe mention it gently.
+D. Trust it completely; my hunches are usually right.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. When cooking, you:
+A. Follow recipes exactly and measure everything.
+B. Follow recipes but adjust seasoning to taste.
+C. Use recipes as loose inspiration.
+D. Invent dishes from whatever is in the fridge.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. You learned your most useful skills by:
+A. Repetition and hands-on practice.
+B. Following an expert's proven method.
+C. Understanding the underlying principles.
+D. Making unexpected connections between unrelated fields.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. When a friend tells you about a problem, you notice:
+A. Exactly what happened and who said what.
+B. The practical facts of the situation.
+C. The pattern; this is the third time something like this has happened.
+D. What it says about their deeper life story.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Your workspace or desk is usually decorated with:
+A. Useful tools within reach.
+B. A few practical items and a photo or two.
+C. Objects that inspire me.
+D. Odd collections of things that mean something only to me.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. A stock everyone is talking about doubles in a week. You:
+A. Look at the company's actual revenue and balance sheet.
+B. Wait to see whether the trend holds.
+C. Think about where the industry is going.
+D. Try to spot the next idea before it becomes the conversation.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. "I trust what I can see, touch, and measure more than what I sense intuitively."
+L.
+K. SN L=S
+## II-E. Language, Imagination & Creativity
+Q. Your writing style (emails, texts, notes) tends to be:
+A. Literal and direct: who, what, when, where.
+B. Clear and organized.
+C. Colorful, with metaphors and asides.
+D. Full of tangents and connections that excite me even if they confuse others.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. As a child, your favorite play was:
+A. Building things, sports, or anything hands-on.
+B. Board games with clear rules.
+C. Make-believe and dress-up.
+D. Inventing entire worlds, languages, or secret societies.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Someone says, "The meeting was a train wreck." You picture:
+A. Specific things that went wrong in the meeting.
+B. That it was disorganized.
+C. An actual train wreck, briefly.
+D. Why meetings in this company keep derailing; the metaphor suggests a whole theory.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Which TV show would you most likely binge?
+A. A home-renovation or cooking competition show.
+B. A grounded crime procedural.
+C. A character-driven drama with layered meaning.
+D. A mind-bending series with twists, time loops, and theories online.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. A friend says, "What if cities had no cars at all?" You:
+A. Point out the practical problems: deliveries, emergency vehicles, disability access.
+B. Discuss which existing car-free streets work well.
+C. Imagine what daily life would feel like.
+D. Spin out a whole redesigned society around the idea.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. When you shop for clothes, you focus on:
+A. Fabric, fit, and durability.
+B. Price and practicality.
+C. How it expresses my mood or identity.
+D. Unusual combinations that nobody else would think of.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Repetitive, routine tasks (filing, data entry, folding laundry):
+A. Are satisfying; I like the rhythm.
+B. Are fine; I put on music and get it done.
+C. Bore me quickly.
+D. Make me feel like my brain is atrophying.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. "I am often called a dreamer."
+L.
+K. SN L=N
+## II-F. Edge Cases & Situational Scenarios
+Q. You are on a hike and get slightly lost. Your instinct is to:
+A. Retrace your steps exactly to the last trail marker you remember.
+B. Check the map and the position of the sun.
+C. Follow the direction that "feels" right.
+D. Enjoy being lost for a bit; maybe there is something cool out here.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. You are planning a surprise party. What part do you enjoy most?
+A. Logistics: headcount, food quantities, timing.
+B. Choosing the venue and decorations.
+C. Designing the theme and the emotional moment of the reveal.
+D. Imagining how the party could become an annual tradition with its own lore.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. A friend asks what you think of their abstract painting. You say:
+A. "The colors are nice and the brushwork is clean."
+B. "I like it; what is it of?"
+C. "It feels lonely but hopeful."
+D. "It reminds me of a dream I had about the ocean and memory."
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. You are given a free afternoon in an unfamiliar city. You:
+A. Visit the top-rated attraction and the best-reviewed lunch spot.
+B. Follow a walking-tour route.
+C. Wander neighborhoods that look interesting.
+D. Ride a random bus line to the end to see what is there.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Your memory is best for:
+A. Facts, numbers, and exact details.
+B. Events and experiences.
+C. Impressions and feelings.
+D. Ideas and theories.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Your boss says the company will "pivot to the future." Your reaction:
+A. "What specifically changes on Monday?"
+B. "I will wait for the actual plan."
+C. "Exciting; I wonder where we are heading."
+D. "I already have six ideas for what the future should be."
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. Which object would you rather receive as a gift?
+A. A high-quality cast-iron pan or a well-made tool.
+B. A useful gadget I had been eyeing.
+C. A beautiful journal or an art print.
+D. A strange antique with a mysterious backstory.
+K. SN A=S2 B=S1 C=N1 D=N2
+Q. "I am more interested in what could be than in what is."
+L.
+K. SN L=N

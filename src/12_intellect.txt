@@ -1,0 +1,199 @@
+# PART XII — Intellectual Curiosity & Learning
+## XII-A. Learning Style
+Q. You want to learn a new skill. Your first move:
+A. Sign up for an in-person class.
+B. Watch online tutorials.
+C. Buy a book and study alone.
+D. Find someone who does it and apprentice informally.
+E. Just start doing it and fail forward.
+K. URB A=8 B=4 C=4 D=4 E=3 | TAG A=COLLEGE B=- C=- D=MAKER E=-
+Q. Having a major research university nearby (lectures, libraries, campus events) would be:
+A. A huge draw; I would use it constantly.
+B. A nice bonus.
+C. Irrelevant.
+D. A negative; I do not want a student-dominated town.
+K. TAG A=COLLEGE B=COLLEGE C=- D=- | CIV A=8 B=6 C=4 D=2 | NIGHT A=7 B=6 C=4 D=2
+Q. Your best learning environment:
+A. A lively seminar with debate.
+B. A quiet library carrel.
+C. A workshop with tools in hand.
+D. Out in the field: forests, rivers, ruins.
+K. URB A=8 B=5 C=4 D=1 | QUIET A=2 B=9 C=4 D=8 | OUT A=- B=- C=- D=10 | TAG A=COLLEGE B=- C=MAKER D=OUTDOOR
+Q. "I would rather attend a free public lecture than a concert."
+L.
+K. TAG L+COLLEGE
+Q. Which credential or experience would you most like to pursue in the next five years?
+A. A graduate degree.
+B. A professional certification or trade license.
+C. A creative portfolio or published work.
+D. A wilderness certification (avalanche safety, wilderness first responder).
+E. Deeper study in my faith tradition.
+K. TAG A=COLLEGE B=MAKER C=ARTSY D=OUTDOOR E=FAITH
+Q. How do you prefer to discuss ideas?
+A. Debate over drinks at a bar.
+B. A book club or salon.
+C. One-on-one long walks.
+D. Online forums.
+E. A Bible study, Torah study, or similar group.
+K. NIGHT A=8 B=4 C=2 D=2 E=1 | ARTS A=4 B=8 C=4 D=3 E=2 | FAITH A=- B=- C=- D=- E=10
+Q. A library is, to you:
+A. A sacred space I visit weekly.
+B. A useful resource.
+C. Somewhere I went as a kid.
+D. Replaced by the internet.
+K. ARTS A=8 B=5 C=3 D=2 | WALK A=7 B=5 C=- D=-
+Q. You learn best from:
+A. Experts and credentialed authorities.
+B. Experienced practitioners.
+C. Peers and community.
+D. Direct trial and error.
+K. NOTE
+## XII-B. Topics of Obsession
+Q. Which topic could you talk about for hours?
+A. Technology, AI, and the future.
+B. History, genealogy, and old buildings.
+C. Ecology, geology, and the natural world.
+D. Art, film, literature, and music.
+E. Theology, philosophy, and meaning.
+K. TAG A=STARTUP B=HISTORY C=OUTDOOR D=ARTSY E=FAITH | CAR A=TECH B=- C=- D=CREA E=-
+Q. Your ideal weekend rabbit hole:
+A. Restoring an old radio or car.
+B. Researching a family tree.
+C. Learning the names of every bird in my area.
+D. Reading about startups and markets.
+E. Watching a documentary series about a social movement.
+K. TAG A=MAKER B=HISTORY C=OUTDOOR D=STARTUP E=- | CIV A=4 B=4 C=6 D=4 E=8
+Q. Which of these places would you most want to visit regularly?
+A. A natural history museum.
+B. A science center or maker space.
+C. A contemporary art museum.
+D. A historic battlefield or preserved village.
+E. A botanical garden or arboretum.
+K. TAG A=COLLEGE B=MAKER C=ARTSY D=HISTORY E=FARM | ARTS A=5 B=4 C=10 D=4 E=5
+Q. "I am happiest when I am surrounded by people who are smarter than I am."
+L.
+K. TAG L+COLLEGE | URB L+
+Q. Which magazine or newsletter would you subscribe to?
+A. Wired or a tech newsletter.
+B. Outside or Backpacker.
+C. The New Yorker or a literary review.
+D. Garden & Gun, Southern Living, or a regional lifestyle magazine.
+E. A faith-based or family-values publication.
+K. TAG A=STARTUP B=OUTDOOR C=ARTSY D=HISTORY E=FAITH | CIV A=6 B=6 C=8 D=3 E=1
+Q. The kind of history you love most:
+A. Ancient civilizations.
+B. American history and founding stories.
+C. Local history: who built this street, what was here before.
+D. Social history: ordinary people, movements, and struggles.
+E. I am not much of a history person.
+K. TAG A=- B=HISTORY C=HISTORY D=- E=- | CIV A=- B=3 C=5 D=8 E=-
+Q. Science and nature: which captures you most?
+A. The night sky and astronomy.
+B. Oceans and marine life.
+C. Mountains, rocks, and glaciers.
+D. Deserts and arid ecosystems.
+E. Forests, fungi, and rivers.
+K. QUIET A=9 B=- C=- D=- E=- | WATER A=- B=10 C=- D=- E=4 | MTN A=- B=- C=10 D=- E=- | DESERT A=5 B=- C=- D=10 E=- | FOREST A=- B=- C=4 D=- E=10
+Q. Your obsession with food goes as far as:
+A. Fermenting, baking sourdough, and studying technique.
+B. Reading restaurant reviews and following chefs.
+C. Knowing which local farm grew my vegetables.
+D. Eating; I do not overthink it.
+K. TAG A=FOODIE B=FOODIE C=FARM D=- | URB A=5 B=9 C=3 D=-
+## XII-C. Information Consumption
+Q. Your main news source:
+A. Major national newspapers and their websites.
+B. Local newspapers and local TV.
+C. Podcasts and newsletters from independent voices.
+D. Social media and friends.
+E. I avoid news mostly.
+K. NOTE
+Q. How often do you read books?
+A. Several a month.
+B. About one a month.
+C. A few a year.
+D. Rarely.
+K. ARTS A=8 B=6 C=4 D=2 | TAG A=COLLEGE B=- C=- D=-
+Q. Independent bookstores within walking distance:
+A. Essential.
+B. Nice.
+C. Irrelevant; I order online.
+D. I do not read much.
+K. ARTS A=10 B=6 C=3 D=1 | WALK A=10 B=6 C=- D=- | URB A=8 B=6 C=4 D=3
+Q. You hear an unfamiliar word in conversation. You:
+A. Look it up immediately.
+B. Ask what it means.
+C. Infer from context.
+D. Let it go.
+K. NOTE
+Q. "I need a steady supply of new ideas, lectures, shows, and conversations, or I get bored."
+L.
+K. ARTS L+ | URB L+ | PACE L+
+Q. Which device sits on your nightstand?
+A. A stack of books.
+B. My phone.
+C. A tablet or e-reader.
+D. A radio or nothing at all.
+K. NOTE
+Q. How do you feel about places where internet and cell service are spotty?
+A. A dealbreaker.
+B. Inconvenient but survivable.
+C. Fine for vacations only.
+D. A feature; I like being unplugged.
+K. URB A=8 B=5 C=4 D=0 | QUIET A=2 B=5 C=5 D=10
+Q. When you travel, you research:
+A. Exhaustively, with spreadsheets.
+B. The highlights.
+C. A little, then explore.
+D. Nothing; I like surprises.
+K. NOTE
+## XII-D. Curiosity in Daily Life
+Q. Which neighborhood amenity would you use most?
+A. A makerspace or community workshop.
+B. A university extension or continuing-ed center.
+C. A nature center with guided walks.
+D. A church or temple with study programs.
+E. A comedy club or improv theater.
+K. TAG A=MAKER B=COLLEGE C=OUTDOOR D=FAITH E=NIGHTLIFE | ARTS A=4 B=5 C=2 D=2 E=8
+Q. Talking with locals while traveling, you most enjoy hearing about:
+A. How the town has changed.
+B. The best hidden trails and swimming holes.
+C. The local music and art scene.
+D. Where the best food is.
+E. Their church, festivals, and traditions.
+K. TAG A=HISTORY B=OUTDOOR C=MUSIC D=FOODIE E=FAITH
+Q. "I like being around people who challenge my views."
+L.
+K. DIV L+ | CIV L+
+Q. Which would you rather see built in your town?
+A. A tech incubator.
+B. A performing arts center.
+C. A new trail network.
+D. A community church or interfaith center.
+E. A new branch library.
+K. TAG A=STARTUP B=ARTSY C=OUTDOOR D=FAITH E=- | ARTS A=3 B=10 C=2 D=2 E=7 | OUT A=- B=- C=10 D=- E=-
+Q. Which personal project are you most likely to start this year?
+A. A podcast, blog, or newsletter.
+B. A garden or small homestead.
+C. A side business or app.
+D. A novel, album, or art series.
+E. Training for a big physical goal.
+K. TAG A=- B=FARM C=STARTUP D=ARTSY E=OUTDOOR | CAR A=CREA B=AGRI C=TECH D=CREA E=-
+Q. Your attitude toward the unknown parts of a new city:
+A. I explore every neighborhood within months.
+B. I explore gradually.
+C. I find my favorite spots and stick to them.
+D. I mostly stay close to home.
+K. URB A=9 B=6 C=4 D=2
+Q. A quiz night at a local bar: you are there?
+A. Every week, captaining the team.
+B. Sometimes.
+C. Rarely.
+D. Never.
+K. NIGHT A=9 B=6 C=3 D=1 | SOC A=9 B=6 C=3 D=1
+Q. If you could only keep one: a big library card, a ski pass, a museum membership, or a church membership?
+A. The library card.
+B. The ski pass.
+C. The museum membership.
+D. The church membership.
+K. ARTS A=6 B=1 C=10 D=2 | TAG A=COLLEGE B=SKI C=ARTSY D=FAITH | OUT A=- B=10 C=- D=- | FAITH A=- B=- C=- D=10
