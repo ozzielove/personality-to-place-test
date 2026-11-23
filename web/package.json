@@ -1,0 +1,36 @@
+{
+  "name": "personality-to-place-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "vitest run",
+    "data": "cd .. && python3 build/export_web.py",
+    "mutation": "node tests/mutation.mjs",
+    "canary": "node tests/canary.mjs",
+    "e2e": "node tests/e2e.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^1.78.0",
+    "motion": "^14.14.0",
+    "next": "16.4.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "4.3.3",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.6",
+    "playwright": "^1.65.1",
+    "tailwindcss": "4.3.3",
+    "typescript": "^5",
+    "vitest": "^5.1.1"
+  }
+}

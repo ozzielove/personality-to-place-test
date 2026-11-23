@@ -5,3 +5,10 @@ __pycache__/
 ~$*
 .~lock.*#
 .env
+
+# local planning notes and Vercel link
+.planning/
+.vercel/
+
+# local agent tool state
+.letta/
