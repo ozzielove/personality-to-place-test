@@ -6,22 +6,6 @@
 
 ---
 
-## TL;DR
-
-| | |
-|---|---|
-| **The problem** | Personality tests hand you a label and leave. "Where should I live?" tools ask for a budget and a climate and ignore who you are. Nobody connects the two. |
-| **The bet** | If you measure a person on the same 20 scales you rate a place on, "where do I belong" becomes arithmetic you can check, not a vibe. |
-| **What ships** | A web app that takes you through the test, saves every answer as you go, and scores the whole thing in under a millisecond. Plus the original printable PDF. |
-| **The output** | A four-letter type with clarity, a 20-scale Place Profile, a top match and two runners-up out of 73 real U.S. neighborhoods, each with a letter grade and a line-by-line explanation. |
-| **The promise** | Every number on the results page can be traced back to your answers and a published rule. No black box, no account, no data leaves your browser. |
-
-## Who this is for
-
-- **People deciding where to move** who want a shortlist grounded in who they are, not only what they can afford.
-- **People who like personality tests** and want the result to lead somewhere concrete.
-- **Skeptics.** The scoring method is published in full, the code that implements it is tested against it, and every grade shows its work.
-
 ## How to take it
 
 ### Start
@@ -50,6 +34,22 @@ One thing to know: progress lives in that one browser. Clearing the browser's si
 ### Finish
 
 On the last question press **Finish** (or **Parts**, then **Finish and score**). You see how many questions are unanswered and can score right away or go back. Press **Score my test** and the results appear instantly. You can also press **Score what I have so far** from the home page at any time; the page marks a partial result clearly.
+
+## TL;DR
+
+| | |
+|---|---|
+| **The problem** | Personality tests hand you a label and leave. "Where should I live?" tools ask for a budget and a climate and ignore who you are. Nobody connects the two. |
+| **The bet** | If you measure a person on the same 20 scales you rate a place on, "where do I belong" becomes arithmetic you can check, not a vibe. |
+| **What ships** | A web app that takes you through the test, saves every answer as you go, and scores the whole thing in under a millisecond. Plus the original printable PDF. |
+| **The output** | A four-letter type with clarity, a 20-scale Place Profile, a top match and two runners-up out of 73 real U.S. neighborhoods, each with a letter grade and a line-by-line explanation. |
+| **The promise** | Every number on the results page can be traced back to your answers and a published rule. No black box, no account, no data leaves your browser. |
+
+## Who this is for
+
+- **People deciding where to move** who want a shortlist grounded in who they are, not only what they can afford.
+- **People who like personality tests** and want the result to lead somewhere concrete.
+- **Skeptics.** The scoring method is published in full, the code that implements it is tested against it, and every grade shows its work.
 
 ## How it is scored
 
